@@ -96,7 +96,7 @@ class modelo_cuadratico():
             # Update U
             self.U = self.U - lr * (delta_uv@(self.W[:a,a:]@self.V.transpose(0,1)).transpose(0,1))/(n_items*self.b)
             # Update V
-            self.V = self.V - lr * ((self.W[:a,a:]@self.U.transpose(0,1))@delta_uv).transpose(0,1)/(n_users*self.a)
+            self.V = self.V - lr * ((self.W[:a,a:].transpose(0,1)@self.U.transpose(0,1))@delta_uv).transpose(0,1)/(n_users*self.a)
             # Update W (O la parte de W que se va a usar)
             self.W[:a,a:] = self.W[:a,a:] - lr * ((delta_uv.transpose(0,1)@self.U).transpose(0,1)@self.V)/(n_users*n_items)
 
@@ -107,7 +107,7 @@ class modelo_cuadratico():
     
 def calculate_weighted_matrix_multiplication(W:torch.Tensor, M_1: torch.Tensor, M_2: torch.Tensor):
     a = M_1.shape[1]
-    WM_1 = W[:a,a:]@M_1.transpose(0,1)
+    WM_1 = W[:a,a:].transpose(0,1)@M_1.transpose(0,1)
     WM_1M_2 = WM_1.transpose(0,1)@M_2.transpose(0,1)
     return WM_1M_2
 
