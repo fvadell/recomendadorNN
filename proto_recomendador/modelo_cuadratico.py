@@ -1,5 +1,6 @@
 import torch
 import numpy as np
+import pandas as pd
 from sklearn.preprocessing import PolynomialFeatures
 import matplotlib.pyplot as plt
 
@@ -7,7 +8,7 @@ class modelo_cuadratico():
     """
     Modelo cuadratico para collaborative filtering segun el paper A Recommendation Model Based on Deep Neural Network del autor LIBO ZHANG
     """
-    def __init__(self, a:int, b:int, n_users:int, n_items:int, device = 'auto'):
+    def __init__(self, a:int, b:int, n_users:int, n_items:int, interaction_df: pd.DataFrame, device = 'auto'):
         """
         Attributes
         ----------
@@ -28,6 +29,8 @@ class modelo_cuadratico():
         l = a+b
         self.a = a
         self.b = b
+        self.users = interaction_df.index
+        self.items = interaction_df.columns
         self.W = np.random.rand(l,l)
         self.w = np.random.rand(l)
         self.U = np.random.rand(n_users, a)
@@ -48,6 +51,40 @@ class modelo_cuadratico():
         self.w = torch.from_numpy(self.w).to(self.device)
         self.U = torch.from_numpy(self.U).to(self.device)
         self.V = torch.from_numpy(self.V).to(self.device)
+        
+    def get_item_position(self, itemid):
+        try:
+            pos = np.where(self.items==itemid)[0].item()
+        except:
+            pos = None
+        return pos
+
+    def get_user_position(self, userid):
+        try:
+            pos = np.where(self.users==userid)[0].item()
+        except:
+            pos = None
+        return pos
+
+    def get_itemid(self, position:int):
+        """
+        Busca el itemid de la posicion dada
+        """
+        try:
+            itemid = self.items[position]
+        except:
+            itemid = None
+        return itemid
+
+    def get_userid(self, position:int):
+        """
+        Busca el userid de la posicion dada
+        """
+        try:
+            itemid = self.users[position]
+        except:
+            itemid = None
+        return itemid
     
     def entrenar(self, ratings:torch.Tensor, lr = 0.01, epochs = 10**6, track_every = 1000, early_stop_min_diff = 0.000001):
         
