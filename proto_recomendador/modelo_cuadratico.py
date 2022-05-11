@@ -86,6 +86,45 @@ class modelo_cuadratico():
             itemid = None
         return itemid
     
+    def save_weights(self, file_name: str):
+        """
+        Guarda los pesos del modelo a un archivo
+        Attributes
+        ----------
+        file_name : str
+            Nombre del archivo que se va a crear o pisar con los pesos
+        """
+        state = {'a': self.a, 'b': self.b, 'users': self.users, 'items': self.items, 'U': self.U, 'V': self.V, 'W': self.W, 'w': self.W, 'p': self.p, 'q': self.q, 'z': self.z}
+        torch.save(state, file_name)
+        
+    def load_weights(self, file_name: str):
+        loaded = torch.load(file_name)
+        
+        self.a = loaded['a']
+        self.b = loaded['b']
+        self.users = loaded['users']
+        self.items = loaded['items']
+        self.W = loaded['W']
+        self.w = loaded['w']
+        self.U = loaded['U']
+        self.V = loaded['V']
+        self.p = loaded['p']
+        self.q = loaded['q']
+        self.z = loaded['z']
+        
+        if self.device == 'auto':
+            self.device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
+            print('Using device:', self.device)
+        
+        self.p = self.p.to(self.device)
+        self.q = self.q.to(self.device)
+        self.z = self.z.to(self.device)
+        self.W = self.W.to(self.device)
+        self.w = self.w.to(self.device)
+        self.U = self.U.to(self.device)
+        self.V = self.V.to(self.device)
+        
+        
     def entrenar(self, ratings:torch.Tensor, lr = 0.01, epochs = 10**6, track_every = 1000, early_stop_min_diff = 0.000001):
         
         a = self.a
