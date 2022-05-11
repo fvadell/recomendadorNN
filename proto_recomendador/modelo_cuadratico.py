@@ -53,6 +53,9 @@ class modelo_cuadratico():
         self.V = torch.from_numpy(self.V).to(self.device)
         
     def get_item_position(self, itemid):
+        """
+        Busca la posición en la que se encuentra el item con id itemid
+        """
         try:
             pos = np.where(self.items==itemid)[0].item()
         except:
@@ -60,6 +63,9 @@ class modelo_cuadratico():
         return pos
 
     def get_user_position(self, userid):
+        """
+        Busca la posición en la que se encuentra el usuario con id userid
+        """
         try:
             pos = np.where(self.users==userid)[0].item()
         except:
