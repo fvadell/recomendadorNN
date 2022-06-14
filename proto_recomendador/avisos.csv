@@ -1,0 +1,1553 @@
+,idaviso,ciudad,provincia,precio,tipodeoperacion,tipodepropiedad,habitaciones,metrostotales,iscurrent
+0,21233185,Belgrano,Capital Federal,28000,Alquiler,Apartamento,0.0,30.0,0
+1,21814536,Caballito,Capital Federal,40000,Alquiler,Apartamento,1.0,45.0,1
+2,23173546,Caballito,Capital Federal,38000,Alquiler,Apartamento,1.0,40.0,0
+3,25828679,La Paternal,Capital Federal,52000,Alquiler,Apartamento,2.0,62.0,0
+4,28014981,Villa Urquiza,Capital Federal,37000,Alquiler,Apartamento,1.0,38.0,0
+5,28264466,Palermo,Capital Federal,600,Alquiler temporal,Apartamento,1.0,50.0,1
+6,28818844,Palermo,Capital Federal,65000,Alquiler temporal,Apartamento,1.0,40.0,1
+7,29116481,Caballito,Capital Federal,49900,Venta,Apartamento,1.0,35.0,1
+8,29351374,Pilar,GBA Norte,187000,Venta,Casa,4.0,1220.0,1
+9,29715704,Flores,Capital Federal,30000,Alquiler,Apartamento,0.0,42.0,0
+10,32097070,Estados Unidos,Otros Paises,99000,Venta,Casa,2.0,122.0,1
+11,33389245,Flores,Capital Federal,45000,Alquiler,Apartamento,2.0,50.0,0
+12,40122354,Caballito,Capital Federal,40000,Alquiler,Apartamento,1.0,38.0,1
+13,41424112,Rosario,Santa Fe,25000,Alquiler,Apartamento,0.0,25.0,0
+14,41599473,Recoleta,Capital Federal,55000,Alquiler,Apartamento,1.0,49.0,0
+15,41623102,Palermo,Capital Federal,130000,Alquiler,PH,2.0,90.0,1
+16,41645564,Recoleta,Capital Federal,30000,Alquiler,Apartamento,0.0,19.0,1
+17,41934522,Avellaneda,GBA Sur,35000,Alquiler,PH,1.0,46.0,1
+18,42000915,Villa Urquiza,Capital Federal,35000,Alquiler,Apartamento,1.0,39.0,1
+19,42068346,Almagro,Capital Federal,54000,Alquiler,Apartamento,2.0,60.0,1
+20,42069812,Palermo,Capital Federal,80000,Alquiler temporal,Apartamento,1.0,45.0,1
+21,42207734,Balvanera,Capital Federal,42500,Alquiler,Apartamento,1.0,40.0,0
+22,42221081,Belgrano,Capital Federal,45000,Alquiler,Apartamento,0.0,28.0,1
+23,42221634,Villa Urquiza,Capital Federal,40000,Alquiler,Apartamento,0.0,34.0,1
+24,42382133,Escobar,GBA Norte,220000,Venta,Casa,3.0,660.0,1
+25,42405776,Rosario,Santa Fe,28000,Alquiler,Apartamento,0.0,38.0,1
+26,42424136,Villa Crespo,Capital Federal,40000,Alquiler,Apartamento,0.0,38.0,0
+27,42444934,Villa Ortuzar,Capital Federal,50000,Alquiler,Apartamento,1.0,44.0,1
+28,42721358,Boedo,Capital Federal,65000,Alquiler,PH,1.0,55.0,1
+29,42749824,Barrio Norte,Capital Federal,95000,Alquiler,Apartamento,3.0,104.0,1
+30,42762137,Belgrano,Capital Federal,46000,Alquiler,Apartamento,1.0,45.0,1
+31,43075036,San Isidro,GBA Norte,40000,Alquiler,PH,2.0,70.0,1
+32,43090474,Liniers,Capital Federal,62000,Alquiler,PH,2.0,76.0,1
+33,43160726,Mar de las Pampas,Buenos Aires Costa Atlántica,100000,Venta,Apartamento,1.0,74.0,1
+34,43293330,Centro / Microcentro,Capital Federal,119000,Venta,Garage,0.0,130.0,1
+35,43409879,Villa Santa Rita,Capital Federal,36000,Alquiler,Apartamento,0.0,27.0,1
+36,43451958,Escobar,GBA Norte,140000,Venta,Casa,3.0,,1
+37,43495224,San Bernardo,Buenos Aires Costa Atlántica,42000,Venta,Casa,0.0,60.0,1
+38,43523344,Palermo,Capital Federal,50000,Alquiler,Apartamento,1.0,44.0,0
+39,43558827,Costa Chica,Buenos Aires Costa Atlántica,80000,Venta,Casa,4.0,1000.0,0
+40,43587232,Palermo,Capital Federal,78000,Alquiler,Apartamento,2.0,63.0,1
+41,43708017,Vicente López,GBA Norte,155000,Alquiler,Casa,4.0,160.0,1
+42,43915016,Villa Luro,Capital Federal,55000,Alquiler,Apartamento,1.0,50.0,1
+43,43945037,Almagro,Capital Federal,27000,Alquiler,Apartamento,0.0,28.0,0
+44,43969575,Moreno,GBA Oeste,3340000,Venta,Casa,2.0,108.0,1
+45,43993950,Belgrano,Capital Federal,44000,Alquiler,Apartamento,1.0,38.0,1
+46,44046264,San Isidro,GBA Norte,52000,Alquiler,Apartamento,1.0,45.0,1
+47,44069394,Vicente López,GBA Norte,50000,Alquiler,PH,1.0,50.0,1
+48,44072827,Bialet Massé,Córdoba,61900,Venta,Casa,4.0,300.0,1
+49,44103598,Lomas de Zamora,GBA Sur,28000,Alquiler,Apartamento,0.0,27.0,1
+50,44105504,Exaltación de la Cruz,GBA Norte,18000,Alquiler,Quinta Vacacional,3.0,1500.0,1
+51,44105504,Exaltación de la Cruz,GBA Norte,18000,Alquiler temporal,Quinta Vacacional,3.0,1500.0,1
+52,44120735,La Matanza,GBA Oeste,45000,Alquiler,Apartamento,2.0,70.0,1
+53,44129124,Villa Urquiza,Capital Federal,45000,Alquiler,PH,2.0,262.0,1
+54,44129124,Villa Urquiza,Capital Federal,2300,Alquiler temporal,PH,2.0,262.0,1
+55,44150781,Congreso,Capital Federal,39000,Alquiler,Apartamento,1.0,50.0,0
+56,44150799,Rosario,Santa Fe,30000,Alquiler,Apartamento,1.0,43.0,0
+57,44152655,Rosario,Santa Fe,80000,Alquiler,Casa,2.0,130.0,1
+58,44218149,Recoleta,Capital Federal,80000,Venta,Apartamento,1.0,58.0,0
+59,44251186,Villa Urquiza,Capital Federal,40000,Alquiler,Apartamento,0.0,43.0,0
+60,44277259,Villa Crespo,Capital Federal,120000,Venta,PH,2.0,115.0,1
+61,44357136,Núñez,Capital Federal,34000,Alquiler,Apartamento,1.0,29.0,0
+62,44360601,Huerta Grande,Córdoba,276000,Venta,Terrenos,0.0,525.0,1
+63,44360637,La Falda,Córdoba,175000,Venta,Casa,3.0,905.0,1
+64,44364314,Once,Capital Federal,30000,Alquiler,Apartamento,1.0,21.0,1
+65,44370697,Caballito,Capital Federal,60000,Alquiler,Apartamento,2.0,82.0,0
+66,44374203,Villa Crespo,Capital Federal,125000,Venta,Apartamento,2.0,74.0,1
+67,44379257,Barracas,Capital Federal,55000,Alquiler,Apartamento,3.0,63.0,1
+68,44387523,Villa Urquiza,Capital Federal,55000,Alquiler,Apartamento,2.0,57.0,1
+69,44391341,Salsipuedes,Córdoba,105000,Venta,Casa,3.0,1600.0,1
+70,44422151,San Isidro,GBA Norte,100000,Alquiler,Apartamento,3.0,90.0,1
+71,44458572,Tigre,GBA Norte,210000,Venta,Casa,3.0,150.0,1
+72,44496873,Centro / Microcentro,Capital Federal,92000,Venta,Apartamento,2.0,60.0,1
+73,44514033,Palermo,Capital Federal,55000,Alquiler,Apartamento,,42.0,1
+74,44586001,Vicente López,GBA Norte,39500,Alquiler,Apartamento,0.0,,0
+75,44600504,Recoleta,Capital Federal,60000,Alquiler,Apartamento,1.0,64.0,1
+76,44626578,Belgrano,Capital Federal,45000,Alquiler,Apartamento,1.0,32.0,0
+77,44706493,Córdoba,Córdoba,5700,Venta,Casa,0.0,30.0,1
+78,44716863,Centro / Microcentro,Capital Federal,50000,Alquiler,Apartamento,2.0,90.0,0
+79,44733726,Vicente López,GBA Norte,45000,Alquiler,PH,1.0,38.0,1
+80,44862119,Palermo,Capital Federal,60000,Alquiler,Apartamento,1.0,55.0,1
+81,44970533,Belgrano,Capital Federal,90000,Alquiler,PH,1.0,83.0,0
+82,44975571,San Telmo,Capital Federal,50000,Alquiler,Apartamento,2.0,68.0,1
+83,45001331,Luján,GBA Oeste,165000,Venta,Casa,3.0,2000.0,1
+84,45042402,Caballito,Capital Federal,38000,Alquiler,Apartamento,1.0,42.0,0
+85,45048258,Coronel Suárez,Buenos Aires (fuera de GBA),36000,Venta,Casa,2.0,122.0,1
+86,45085597,Quilmes,GBA Sur,40000,Alquiler,Casa,2.0,100.0,1
+87,45093041,Almagro,Capital Federal,68000,Venta,Apartamento,0.0,45.0,1
+88,45119200,Belgrano,Capital Federal,30000,Alquiler,Apartamento,1.0,45.0,0
+89,45152226,Lomas de Zamora,GBA Sur,40000,Alquiler,Casa,2.0,90.0,1
+90,45157132,Colegiales,Capital Federal,40000,Alquiler,Apartamento,1.0,32.0,0
+91,45174957,Belgrano,Capital Federal,41000,Alquiler,Apartamento,1.0,40.0,0
+92,45175878,Parque Chacabuco,Capital Federal,58000,Alquiler,PH,2.0,64.0,0
+93,45175933,calamuchita,Córdoba,250000,Venta,Terrenos,0.0,5.0,1
+94,45222063,Pilar,GBA Norte,26000,Alquiler,Apartamento,1.0,50.0,1
+95,45259833,Boedo,Capital Federal,47000,Alquiler,Apartamento,1.0,48.0,0
+96,45357483,Belgrano,Capital Federal,80000,Alquiler,PH,2.0,75.0,0
+97,45371545,Córdoba,Córdoba,75000,Venta,Casa,2.0,300.0,1
+98,45371838,Belgrano,Capital Federal,55000,Alquiler,Apartamento,1.0,70.0,0
+99,45444583,Palermo,Capital Federal,125000,Venta,Apartamento,2.0,72.0,1
+100,45472392,Congreso,Capital Federal,42000,Alquiler,Apartamento,1.0,35.0,1
+101,45475122,Villa del Parque,Capital Federal,157000,Venta,PH,2.0,90.0,1
+102,45501224,La Matanza,GBA Oeste,25000,Alquiler,Apartamento,1.0,45.0,0
+103,45505189,Colegiales,Capital Federal,180000,Alquiler,Casa,4.0,190.0,1
+104,45532113,Córdoba,Córdoba,26000,Alquiler,Apartamento,1.0,45.0,0
+105,45564891,Mataderos,Capital Federal,40000,Alquiler,PH,1.0,50.0,1
+106,45580446,Belgrano,Capital Federal,40000,Alquiler,Apartamento,0.0,41.0,0
+107,45598471,San Luis,San Luis ,60000,Venta,Casa,2.0,45.0,1
+108,45631463,Palermo,Capital Federal,85000,Alquiler,Apartamento,2.0,60.0,0
+109,45640571,Córdoba,Córdoba,33000,Alquiler,Apartamento,1.0,48.0,0
+110,45663623,Caballito,Capital Federal,31500,Alquiler,Apartamento,1.0,38.0,1
+111,45708433,La Cumbre,Córdoba,25000,Venta,Casa,1.0,900.0,1
+112,45720654,Pilar,GBA Norte,120000,Venta,Casa,3.0,300.0,1
+113,45724440,Lomas de Zamora,GBA Sur,25000,Alquiler,Apartamento,,40.0,1
+114,45803658,Mar del Plata,Buenos Aires Costa Atlántica,50000,Venta,Casa,2.0,220.0,1
+115,45804606,El Plumerillo,Mendoza ,10000000,Venta,Rancho,2.0,60000.0,1
+116,45805170,La Paternal,Capital Federal,50000,Alquiler,PH,2.0,37.0,0
+117,45815838,San Rafael,Mendoza ,19999,Venta,Casa,0.0,500.0,1
+118,45817767,San Isidro,GBA Norte,48000,Alquiler,PH,2.0,65.0,1
+119,45853472,Villa Urquiza,Capital Federal,50000,Alquiler,Apartamento,0.0,45.0,1
+120,45861316,Barrio Norte,Capital Federal,35000,Alquiler,Apartamento,0.0,30.0,1
+121,45873142,Mar del Plata,Buenos Aires Costa Atlántica,73000,Venta,Apartamento,1.0,51.0,1
+122,45878111,Balvanera,Capital Federal,51000,Venta,Apartamento,1.0,49.0,1
+123,45879996,Villa Urquiza,Capital Federal,120000,Venta,Apartamento,3.0,65.0,1
+124,45883551,San Fernando,GBA Norte,42000,Alquiler,Apartamento,,40.0,1
+125,46018472,Palermo,Capital Federal,195000,Venta,PH,3.0,105.0,1
+126,46033319,Rosario,Santa Fe,24000,Alquiler,Apartamento,2.0,50.0,0
+127,46057367,Villa Urquiza,Capital Federal,62000,Alquiler,Apartamento,1.0,45.0,0
+128,46061397,Morón,GBA Oeste,23000,Alquiler,Apartamento,1.0,48.0,1
+129,46069409,Estados Unidos,Otros Paises,139000,Venta,Apartamento,2.0,73.0,1
+130,46091838,Villa Urquiza,Capital Federal,159000,Venta,Casa,3.0,120.0,1
+131,46092843,Córdoba,Córdoba,25000,Alquiler,Apartamento,1.0,45.0,0
+132,46108712,Palermo,Capital Federal,89990,Alquiler,Apartamento,3.0,80.0,0
+133,46122643,Rosario,Santa Fe,28000,Alquiler temporal,Apartamento,2.0,152.0,1
+134,46148747,Caballito,Capital Federal,20493,Venta,Apartamento,0.0,35.0,1
+135,46181385,Caballito,Capital Federal,70000,Alquiler,Apartamento,1.0,42.0,1
+136,46379616,Baradero,Buenos Aires (fuera de GBA),220000,Venta,Rancho,0.0,170000.0,1
+137,46400574,Villa Urquiza,Capital Federal,58000,Alquiler,Apartamento,2.0,58.0,1
+138,46445182,Rosario,Santa Fe,33000,Alquiler,Apartamento,1.0,,1
+139,46469975,Recoleta,Capital Federal,35000,Alquiler,Apartamento,0.0,32.0,0
+140,46563740,Villa Crespo,Capital Federal,65000,Venta,PH,1.0,43.0,1
+141,46566060,Palermo,Capital Federal,58000,Alquiler,Apartamento,,38.0,1
+142,46566213,Juana Koslay,San Luis ,90000,Venta,Casa,3.0,110.0,1
+143,46570251,Floresta,Capital Federal,27000,Alquiler,Apartamento,0.0,,1
+144,46593958,Retiro,Capital Federal,165000,Venta,Apartamento,3.0,124.0,1
+145,46612634,Belgrano,Capital Federal,75000,Alquiler,Apartamento,2.0,105.0,0
+146,46614783,Mar del Plata,Buenos Aires Costa Atlántica,45000,Venta,Apartamento,1.0,43.0,1
+147,46627211,Belgrano,Capital Federal,130000,Alquiler,Apartamento,2.0,85.0,1
+148,46630091,San Isidro,GBA Norte,77500,Alquiler,PH,2.0,133.0,0
+149,46633995,Villa Urquiza,Capital Federal,69000,Alquiler,PH,1.0,58.0,0
+150,46656809,Caballito,Capital Federal,38000,Alquiler,Apartamento,0.0,30.0,0
+151,46667692,Palermo,Capital Federal,80000,Alquiler,Apartamento,1.0,55.0,0
+152,46672464,Belgrano,Capital Federal,44000,Alquiler,Apartamento,1.0,30.0,1
+153,46673708,Mar del Plata,Buenos Aires Costa Atlántica,45000,Venta,Apartamento,1.0,38.0,1
+154,46685251,Caballito,Capital Federal,69500,Venta,Apartamento,1.0,34.0,1
+155,46707115,Villa del Parque,Capital Federal,30000,Alquiler,Apartamento,0.0,23.0,1
+156,46708243,La Matanza,GBA Oeste,23000,Alquiler,Apartamento,1.0,33.0,1
+157,46780593,Potrero de los Funes,San Luis ,140000,Venta,Casa,2.0,110.0,1
+158,46784856,Pilar,GBA Norte,95000,Venta,Casa,2.0,375.0,1
+159,46796043,Palermo,Capital Federal,90000,Alquiler,Apartamento,1.0,51.0,1
+160,46806227,Recoleta,Capital Federal,45000,Alquiler,Apartamento,1.0,38.0,1
+161,46834006,Mar del Plata,Buenos Aires Costa Atlántica,35000,Venta,PH,1.0,36.0,1
+162,46861630,Caballito,Capital Federal,139000,Venta,Apartamento,3.0,,1
+163,46888928,Recoleta,Capital Federal,210000,Venta,Apartamento,2.0,140.0,0
+164,46911299,Vicente López,GBA Norte,36000,Alquiler,PH,1.0,25.0,0
+165,46914435,Almagro,Capital Federal,70000,Venta,Apartamento,2.0,47.0,1
+166,46923755,Floresta,Capital Federal,107000,Venta,PH,6.0,150.0,1
+167,46931862,Parque Chacabuco,Capital Federal,60000,Alquiler,PH,3.0,90.0,0
+168,46931917,Villa Devoto,Capital Federal,43000,Alquiler,Apartamento,1.0,40.0,0
+169,46943910,General San Martín,GBA Norte,35000,Alquiler,PH,1.0,45.0,1
+170,46945543,Coghlan,Capital Federal,61000,Alquiler,Apartamento,1.0,47.0,0
+171,46959010,San Cristobal,Capital Federal,55000,Alquiler,Apartamento,3.0,72.0,1
+172,46991354,Costa del Este,Buenos Aires Costa Atlántica,29200,Venta,Casa,0.0,40.0,1
+173,46994123,Caballito,Capital Federal,98000,Venta,Apartamento,2.0,57.0,1
+174,46994851,Liniers,Capital Federal,28000,Alquiler,Apartamento,1.0,35.0,1
+175,46999050,San Isidro,GBA Norte,60000,Alquiler,PH,2.0,81.0,0
+176,47010667,Centro / Microcentro,Capital Federal,28500,Alquiler,Apartamento,0.0,30.0,0
+177,47048762,Floresta,Capital Federal,40000,Alquiler,Apartamento,1.0,50.0,0
+178,47056003,San Isidro,GBA Norte,155000,Venta,PH,2.0,84.0,1
+179,47112227,Congreso,Capital Federal,60000,Alquiler,Apartamento,0.0,99.0,0
+180,47114132,Pilar,GBA Norte,120000,Venta,Casa,3.0,250.0,0
+181,47120201,Villa Urquiza,Capital Federal,90000,Alquiler,Apartamento,3.0,80.0,1
+182,47154186,San Cristobal,Capital Federal,30700,Venta,Apartamento,0.0,18.0,1
+183,47177734,Núñez,Capital Federal,40000,Alquiler temporal,Apartamento,0.0,40.0,1
+184,47192866,Floresta,Capital Federal,36000,Venta,Apartamento,1.0,40.0,1
+185,47201773,La Plata,GBA Sur,103000,Venta,Casa,2.0,555.0,1
+186,47201869,Villa Urquiza,Capital Federal,80000,Alquiler,Apartamento,2.0,69.0,0
+187,47205352,Caballito,Capital Federal,56000,Alquiler,Apartamento,2.0,,1
+188,47207061,Núñez,Capital Federal,115000,Alquiler,Apartamento,2.0,64.0,1
+189,47215248,San Telmo,Capital Federal,42000,Alquiler,Apartamento,1.0,35.0,0
+190,47229068,Caballito,Capital Federal,95000,Venta,PH,2.0,,1
+191,47239606,San Isidro,GBA Norte,50000,Alquiler,PH,2.0,55.0,1
+192,47249031,San Cristobal,Capital Federal,55000,Venta,Apartamento,0.0,31.0,1
+193,47250894,Barrio Norte,Capital Federal,32000,Alquiler,Apartamento,0.0,23.0,1
+194,47296924,Palermo,Capital Federal,58000,Alquiler,Apartamento,1.0,60.0,0
+195,47304905,Tres de Febrero,GBA Oeste,25000,Venta,Apartamento,0.0,38.0,1
+196,47310270,San Isidro,GBA Norte,650,Alquiler,Casa,2.0,1.0,1
+197,47315908,Palermo,Capital Federal,50000,Alquiler temporal,Apartamento,2.0,68.0,0
+198,47317656,Recoleta,Capital Federal,49000,Alquiler temporal,Apartamento,1.0,32.0,1
+199,47329182,Palermo,Capital Federal,68000,Alquiler,Apartamento,1.0,47.0,1
+200,47333132,Lanús,GBA Sur,18500,Alquiler,PH,0.0,28.0,1
+201,47340109,Caballito,Capital Federal,95000,Venta,Apartamento,2.0,65.0,1
+202,47355891,Pilar,GBA Norte,196000,Venta,Casa,5.0,322.0,1
+203,47363671,Palermo,Capital Federal,38000,Alquiler,Apartamento,0.0,32.0,1
+204,47367939,Palermo,Capital Federal,42000,Alquiler,Apartamento,1.0,34.0,1
+205,47377820,Parque Chas,Capital Federal,48000,Alquiler,Apartamento,1.0,30.0,0
+206,47383126,Centro / Microcentro,Capital Federal,20000,Alquiler,Apartamento,0.0,39.0,1
+207,47384586,Belgrano,Capital Federal,480000,Venta,Apartamento,4.0,190.0,1
+208,47418148,Centro / Microcentro,Capital Federal,50000,Alquiler,Apartamento,2.0,70.0,0
+209,47419876,Núñez,Capital Federal,55000,Venta,Apartamento,0.0,39.0,1
+210,47423574,Nono,Córdoba,85000,Venta,Casa,5.0,180.0,1
+211,47429526,Recoleta,Capital Federal,130000,Alquiler,Apartamento,3.0,117.0,1
+212,47433707,Morón,GBA Oeste,35000,Venta,Apartamento,2.0,45.0,1
+213,47450081,Balvanera,Capital Federal,45000,Alquiler,Apartamento,1.0,35.0,0
+214,47467882,Palermo,Capital Federal,289999,Venta,Apartamento,3.0,140.0,1
+215,47475324,Balvanera,Capital Federal,45000,Venta,Apartamento,2.0,54.0,1
+216,47486105,Caballito,Capital Federal,89000,Alquiler,PH,2.0,146.0,0
+217,47491763,San Isidro,GBA Norte,120000,Alquiler,Casa,2.0,200.0,1
+218,47497173,Agronomía,Capital Federal,56000,Venta,Apartamento,1.0,40.0,1
+219,47503018,Villa Urquiza,Capital Federal,34784,Venta,Apartamento,1.0,52.0,1
+220,47503371,Almagro,Capital Federal,84000,Venta,Apartamento,2.0,67.0,1
+221,47508575,Belgrano,Capital Federal,22440,Venta,Apartamento,0.0,35.0,1
+222,47510607,Pilar,GBA Norte,129000,Venta,Casa,2.0,124.0,1
+223,47514811,Tigre,GBA Norte,165000,Venta,Casa,2.0,300.0,1
+224,47520636,Palermo,Capital Federal,140000,Venta,PH,1.0,45.0,1
+225,47531717,Congreso,Capital Federal,18000,Alquiler,Apartamento,0.0,35.0,1
+226,47535003,San Cristobal,Capital Federal,29000,Venta,Apartamento,0.0,20.0,1
+227,47548041,Pilar,GBA Norte,149900,Venta,Casa,3.0,150.0,1
+228,47577301,San Rafael,Mendoza ,80000,Venta,Rancho,0.0,140000.0,1
+229,47593289,Vicente López,GBA Norte,189000,Venta,Casa,2.0,200.0,1
+230,47600229,Núñez,Capital Federal,45000,Alquiler,Apartamento,1.0,42.0,0
+231,47602001,Barrio Norte,Capital Federal,255000,Venta,Apartamento,3.0,120.0,1
+232,47603222,Palermo,Capital Federal,195000,Venta,Apartamento,2.0,79.0,1
+233,47632517,Lanús,GBA Sur,35000,Alquiler,PH,2.0,60.0,1
+234,47640828,Recoleta,Capital Federal,51000,Venta,Apartamento,0.0,24.0,1
+235,47640828,Recoleta,Capital Federal,30000,Alquiler,Apartamento,0.0,24.0,1
+236,47647641,Barrio Norte,Capital Federal,160000,Venta,Apartamento,2.0,63.0,1
+237,47687525,Santa María de Punilla,Córdoba,89000,Venta,Casa,2.0,700.0,1
+238,47688258,Constitución,Capital Federal,58000,Venta,Apartamento,4.0,105.0,1
+239,47703248,Colegiales,Capital Federal,35000,Alquiler,Apartamento,1.0,28.0,0
+240,47721171,Morón,GBA Oeste,79000,Venta,PH,2.0,130.0,1
+241,47740682,La Paternal,Capital Federal,40000,Alquiler,Apartamento,1.0,30.0,1
+242,47766448,Villa Urquiza,Capital Federal,69000,Alquiler,PH,1.0,58.0,0
+243,47773229,Pilar,GBA Norte,185000,Venta,Casa,3.0,583.0,1
+244,47784942,Caballito,Capital Federal,139000,Venta,Apartamento,2.0,104.0,1
+245,47815781,Lanús,GBA Sur,33000,Alquiler,PH,1.0,58.0,1
+246,47816156,Villa Crespo,Capital Federal,46000,Alquiler,Apartamento,,29.0,0
+247,47833591,Flores,Capital Federal,28000,Alquiler,PH,0.0,20.0,1
+248,47848587,San Telmo,Capital Federal,42000,Alquiler,Apartamento,1.0,46.0,1
+249,47852758,Recoleta,Capital Federal,100000,Alquiler temporal,Apartamento,1.0,50.0,1
+250,47853442,Potrero de los Funes,San Luis ,90000,Venta,Casa,3.0,120.0,1
+251,47861144,San Cristobal,Capital Federal,40000,Venta,Apartamento,1.0,30.0,1
+252,47901004,Mataderos,Capital Federal,33000,Alquiler,Apartamento,1.0,40.0,0
+253,47926010,Villa Urquiza,Capital Federal,43000,Alquiler,Apartamento,0.0,57.0,1
+254,47926974,Villa Crespo,Capital Federal,158000,Venta,PH,2.0,94.0,1
+255,47931537,Núñez,Capital Federal,35000,Alquiler,Apartamento,0.0,21.0,0
+256,47947678,Palermo,Capital Federal,198000,Venta,Apartamento,2.0,113.0,1
+257,47957387,Villa Giardino,Córdoba,80000,Venta,Casa,4.0,180.0,1
+258,47989142,Tigre,GBA Norte,180000,Venta,Casa,3.0,350.0,1
+259,47989941,San Miguel,GBA Norte,65000,Venta,Casa,0.0,500.0,1
+260,48000813,Pilar,GBA Norte,160000,Venta,Casa,3.0,480.0,1
+261,48008916,Floresta,Capital Federal,100000,Venta,PH,2.0,103.0,0
+262,48024616,Vicente López,GBA Norte,155000,Venta,PH,2.0,87.0,1
+263,48043066,Flores,Capital Federal,45000,Venta,Apartamento,2.0,41.0,0
+264,48043737,Balvanera,Capital Federal,30000,Alquiler temporal,Apartamento,1.0,40.0,1
+265,48047235,Capital Federal,,36000,Alquiler,Apartamento,1.0,35.0,0
+266,48052195,Vicente López,GBA Norte,39000,Alquiler,Apartamento,1.0,38.0,0
+267,48057891,Mar del Plata,Buenos Aires Costa Atlántica,65900,Venta,Apartamento,2.0,63.0,1
+268,48061812,Recoleta,Capital Federal,65000,Alquiler temporal,Apartamento,1.0,,1
+269,48086232,Palermo,Capital Federal,90000,Alquiler temporal,Apartamento,0.0,42.0,1
+270,48105284,Palermo,Capital Federal,130000,Alquiler temporal,Apartamento,2.0,78.0,1
+271,48136543,Villa Urquiza,Capital Federal,124999,Venta,PH,2.0,69.0,1
+272,48151772,Tigre,GBA Norte,115000,Venta,Casa,4.0,12734.0,1
+273,48164188,Tigre,GBA Norte,189000,Venta,Casa,3.0,300.0,1
+274,48188871,Villa Devoto,Capital Federal,30000,Alquiler,Apartamento,1.0,56.0,1
+275,48192412,Núñez,Capital Federal,92000,Venta,Apartamento,1.0,52.0,1
+276,48192750,Recoleta,Capital Federal,100000,Venta,Apartamento,1.0,40.0,1
+277,48193433,Villa Crespo,Capital Federal,34000,Alquiler,Apartamento,1.0,50.0,0
+278,48201279,Belgrano,Capital Federal,139000,Venta,Apartamento,2.0,,1
+279,48205770,Villa del Parque,Capital Federal,70000,Alquiler,PH,2.0,70.0,1
+280,48225157,Rosario,Santa Fe,99000,Venta,Apartamento,3.0,98.0,0
+281,48231305,Retiro,Capital Federal,55000,Alquiler,Apartamento,2.0,71.0,0
+282,48232163,Palermo,Capital Federal,40000,Alquiler,Apartamento,1.0,50.0,0
+283,48265002,Mar del Plata,Buenos Aires Costa Atlántica,79000,Venta,Casa,3.0,999.0,1
+284,48270050,Vicente López,GBA Norte,72000,Alquiler,PH,2.0,84.0,0
+285,48291210,Balvanera,Capital Federal,33000,Alquiler,Apartamento,0.0,26.0,1
+286,48303744,Belgrano,Capital Federal,95000,Alquiler,PH,3.0,100.0,1
+287,48312875,Santa María de Punilla,Córdoba,90000,Venta,Casa,2.0,500.0,1
+288,48313714,Pilar,GBA Norte,25000,Venta,Apartamento,1.0,68.0,1
+289,48318881,Recoleta,Capital Federal,50000,Alquiler,Apartamento,2.0,70.0,0
+290,48324463,Núñez,Capital Federal,54673,Venta,Apartamento,1.0,60.0,1
+291,48328614,Almagro,Capital Federal,30000,Venta,PH,1.0,35.0,1
+292,48334306,Villa Crespo,Capital Federal,52000,Alquiler,Apartamento,2.0,46.0,0
+293,48338778,Pilar,GBA Norte,102000,Venta,Casa,3.0,375.0,1
+294,48362464,Recoleta,Capital Federal,187000,Venta,Apartamento,2.0,92.0,1
+295,48368248,Congreso,Capital Federal,75000,Alquiler,PH,3.0,130.0,1
+296,48393926,Palermo,Capital Federal,157000,Venta,Apartamento,2.0,83.0,1
+297,48395849,Villa Crespo,Capital Federal,107000,Venta,PH,2.0,74.0,1
+298,48401371,Vicente López,GBA Norte,176500,Venta,Apartamento,2.0,76.0,1
+299,48407970,Tigre,GBA Norte,198000,Venta,Casa,3.0,300.0,1
+300,48434534,Rosario,Santa Fe,83000,Venta,Casa,2.0,93.0,0
+301,48450594,San Isidro,GBA Norte,107000,Alquiler,Casa,3.0,,1
+302,48456593,Barrio Norte,Capital Federal,40000,Alquiler,Apartamento,0.0,30.0,0
+303,48458920,Almagro,Capital Federal,145000,Venta,PH,2.0,140.0,1
+304,48459580,Colegiales,Capital Federal,185000,Venta,PH,3.0,115.0,1
+305,48484838,Recoleta,Capital Federal,59000,Alquiler,Apartamento,2.0,56.0,1
+306,48507147,Caballito,Capital Federal,104500,Venta,PH,2.0,51.0,1
+307,48510025,Mar del Plata,Buenos Aires Costa Atlántica,69000,Venta,Casa,2.0,211.0,1
+308,48518203,Belgrano,Capital Federal,140000,Venta,Apartamento,1.0,45.0,1
+309,48529614,Boedo,Capital Federal,130000,Venta,PH,2.0,100.0,1
+310,48530530,Villa Urquiza,Capital Federal,50000,Alquiler,Apartamento,0.0,43.0,1
+311,48530633,Mar del Plata,Buenos Aires Costa Atlántica,75000,Venta,Casa,7.0,350.0,1
+312,48531547,Vicente López,GBA Norte,78000,Venta,Apartamento,0.0,35.0,1
+313,48531829,Villa Urquiza,Capital Federal,65000,Alquiler temporal,Apartamento,2.0,70.0,1
+314,48533585,Vicente López,GBA Norte,189000,Venta,PH,2.0,0.0,1
+315,48536301,Almagro,Capital Federal,38000,Alquiler,Apartamento,1.0,30.0,1
+316,48540052,Villa Crespo,Capital Federal,68999,Venta,PH,,51.0,1
+317,48541222,Rosario,Santa Fe,83000,Venta,Apartamento,2.0,81.0,1
+318,48561460,Vicente López,GBA Norte,65000,Alquiler,Apartamento,1.0,56.0,1
+319,48569234,Barrio Norte,Capital Federal,107500,Venta,Apartamento,1.0,62.0,1
+320,48577535,Palermo,Capital Federal,88000,Alquiler,Apartamento,3.0,113.0,1
+321,48579851,Belgrano,Capital Federal,198000,Venta,PH,2.0,186.0,1
+322,48591279,Recoleta,Capital Federal,60000,Alquiler,Apartamento,2.0,60.0,1
+323,48608976,Palermo,Capital Federal,75000,Venta,Apartamento,0.0,40.0,1
+324,48608976,Palermo,Capital Federal,45000,Alquiler,Apartamento,0.0,40.0,1
+325,48616351,Palermo,Capital Federal,369000,Venta,Apartamento,2.0,164.0,1
+326,48617463,Villa Urquiza,Capital Federal,63000,Venta,PH,0.0,40.0,1
+327,48622643,Barrio Norte,Capital Federal,67000,Alquiler,Apartamento,3.0,84.0,1
+328,48627389,San Nicolás,Capital Federal,100000,Alquiler,Apartamento,0.0,83.0,1
+329,48645922,Belgrano,Capital Federal,70000,Alquiler,Apartamento,2.0,57.0,1
+330,48660965,Recoleta,Capital Federal,212000,Venta,Apartamento,2.0,90.0,1
+331,48666183,Vicente López,GBA Norte,118300,Venta,Casa,2.0,137.0,0
+332,48667446,Recoleta,Capital Federal,77000,Venta,Apartamento,0.0,38.0,1
+333,48667446,Recoleta,Capital Federal,45000,Alquiler,Apartamento,0.0,38.0,1
+334,48676785,Palermo,Capital Federal,80000,Alquiler,Apartamento,1.0,67.0,1
+335,48678989,Palermo,Capital Federal,97000,Venta,Apartamento,2.0,56.0,1
+336,48682022,Pilar,GBA Norte,298000,Venta,Casa,4.0,240.0,1
+337,48684839,Villa Urquiza,Capital Federal,79000,Venta,Apartamento,1.0,68.0,1
+338,48713023,Barrio Norte,Capital Federal,32000,Alquiler,Apartamento,0.0,,0
+339,48727595,Caballito,Capital Federal,53000,Venta,Apartamento,0.0,41.0,1
+340,48736789,Caballito,Capital Federal,75000,Alquiler,Apartamento,2.0,70.0,1
+341,48741179,Rosario,Santa Fe,32000,Alquiler,Apartamento,1.0,40.0,1
+342,48743867,Boedo,Capital Federal,48000,Venta,Apartamento,1.0,44.0,0
+343,48760381,Núñez,Capital Federal,34613,Venta,Apartamento,1.0,52.0,1
+344,48762879,Belgrano,Capital Federal,36900,Alquiler,Apartamento,,32.0,0
+345,48768456,Núñez,Capital Federal,97999,Venta,Apartamento,2.0,52.0,1
+346,48776262,Caballito,Capital Federal,42000,Venta,Apartamento,1.0,31.0,0
+347,48788980,Boedo,Capital Federal,105000,Venta,PH,3.0,138.0,1
+348,48800870,Palermo,Capital Federal,130000,Alquiler,Apartamento,2.0,84.0,1
+349,48802494,Caballito,Capital Federal,75000,Alquiler,Apartamento,3.0,63.0,1
+350,48815813,San Cristobal,Capital Federal,90000,Alquiler,PH,5.0,400.0,1
+351,48818226,Villa del Parque,Capital Federal,137000,Venta,PH,3.0,136.0,0
+352,48825978,Villa Crespo,Capital Federal,30000,Venta,Apartamento,0.0,31.0,1
+353,48857084,Caballito,Capital Federal,75000,Alquiler,PH,2.0,80.0,1
+354,48865359,Rosario,Santa Fe,28500,Alquiler,Apartamento,1.0,46.0,0
+355,48876407,San Nicolás,Capital Federal,65000,Alquiler,Apartamento,2.0,69.0,1
+356,48880524,Almagro,Capital Federal,57000,Venta,Apartamento,1.0,44.0,1
+357,48883575,Recoleta,Capital Federal,130000,Alquiler,Apartamento,3.0,150.0,1
+358,48885204,General San Martín,GBA Norte,35000,Alquiler,Apartamento,1.0,45.0,1
+359,48885749,Villa Urquiza,Capital Federal,45000,Alquiler,Apartamento,1.0,30.0,0
+360,48894025,Villa Urquiza,Capital Federal,110000,Venta,PH,1.0,178.0,1
+361,48906652,Balvanera,Capital Federal,48000,Venta,Apartamento,1.0,48.0,0
+362,48929194,Belgrano,Capital Federal,68000,Venta,Apartamento,1.0,44.0,1
+363,48936139,Lanús,GBA Sur,30000,Alquiler,Apartamento,1.0,48.0,1
+364,48942968,General San Martín,GBA Norte,30000,Alquiler,Apartamento,1.0,,1
+365,48945618,Almagro,Capital Federal,46900,Venta,Apartamento,1.0,35.0,0
+366,48946799,Palermo,Capital Federal,143000,Venta,PH,3.0,126.0,1
+367,48955612,Balvanera,Capital Federal,80000,Venta,Apartamento,2.0,60.0,1
+368,48957964,Villa Crespo,Capital Federal,43000,Alquiler,Apartamento,1.0,36.0,1
+369,48978154,Belgrano,Capital Federal,42000,Alquiler,Apartamento,0.0,33.0,0
+370,48984239,Almagro,Capital Federal,40000,Alquiler,Apartamento,0.0,32.0,0
+371,48986437,Colegiales,Capital Federal,105000,Alquiler,Apartamento,2.0,75.0,1
+372,48988714,Caballito,Capital Federal,55000,Alquiler,Apartamento,2.0,,1
+373,48991978,Flores,Capital Federal,42000,Venta,Apartamento,1.0,38.0,1
+374,48992499,Núñez,Capital Federal,62147,Venta,Apartamento,2.0,80.0,1
+375,48996252,Exaltación de la Cruz,GBA Norte,178000,Venta,Quinta Vacacional,2.0,1680.0,1
+376,48997213,Villa Urquiza,Capital Federal,30000,Alquiler,Apartamento,1.0,20.0,1
+377,48998137,Núñez,Capital Federal,46807,Venta,Apartamento,1.0,60.0,1
+378,48998159,Núñez,Capital Federal,47987,Venta,Apartamento,1.0,60.0,1
+379,49000848,Núñez,Capital Federal,49167,Venta,Apartamento,1.0,55.0,1
+380,49007152,Villa Santa Rita,Capital Federal,38000,Alquiler,Apartamento,0.0,62.0,1
+381,49009339,Centro / Microcentro,Capital Federal,49000,Alquiler,Apartamento,2.0,105.0,1
+382,49015277,Flores,Capital Federal,35000,Alquiler,Apartamento,1.0,24.0,1
+383,49023831,Pilar,GBA Norte,16952,Venta,Terrenos,0.0,620.0,1
+384,49025583,Balvanera,Capital Federal,35000,Alquiler,Apartamento,0.0,34.0,1
+385,49026666,Flores,Capital Federal,28000,Alquiler,Apartamento,1.0,28.0,1
+386,49027139,Caballito,Capital Federal,27000,Alquiler,Apartamento,0.0,25.0,1
+387,49032037,Palermo,Capital Federal,67000,Alquiler,Apartamento,1.0,44.0,0
+388,49032176,Palermo,Capital Federal,35000,Alquiler,Apartamento,1.0,22.0,1
+389,49034972,Rosario,Santa Fe,17000,Alquiler,Apartamento,1.0,40.0,0
+390,49050215,Caballito,Capital Federal,38000,Alquiler,Apartamento,0.0,36.0,1
+391,49055594,Caballito,Capital Federal,87000,Alquiler,Apartamento,3.0,78.0,1
+392,49055606,Villa Urquiza,Capital Federal,159000,Venta,Apartamento,2.0,62.0,1
+393,49059806,Flores,Capital Federal,82000,Alquiler,PH,2.0,75.0,1
+394,49061232,Córdoba,Córdoba,25000,Alquiler,Apartamento,1.0,45.0,1
+395,49067668,Congreso,Capital Federal,47000,Alquiler,Apartamento,1.0,34.0,1
+396,49069816,San Isidro,GBA Norte,75000,Alquiler,Casa,2.0,147.0,1
+397,49074259,Santa Rosa de Conlara,San Luis ,42000,Venta,Casa,3.0,15000.0,1
+398,49080249,Belgrano,Capital Federal,295000,Venta,Apartamento,3.0,129.0,1
+399,49082959,Palermo,Capital Federal,70000,Alquiler,Apartamento,2.0,49.0,1
+400,49085929,Almagro,Capital Federal,40000,Alquiler,Apartamento,1.0,34.0,1
+401,49087975,Floresta,Capital Federal,37000,Alquiler,Apartamento,,33.0,1
+402,49090768,Colegiales,Capital Federal,260000,Venta,Apartamento,3.0,92.0,1
+403,49090950,Congreso,Capital Federal,55000,Alquiler,Consultorio,2.0,60.0,0
+404,49091193,Almagro,Capital Federal,40000,Alquiler,Apartamento,1.0,40.0,0
+405,49096180,Almagro,Capital Federal,25000,Alquiler,Apartamento,0.0,28.0,1
+406,49098246,Barrio Norte,Capital Federal,56900,Venta,Apartamento,0.0,31.0,0
+407,49104124,Villa Crespo,Capital Federal,45000,Alquiler,Apartamento,1.0,35.0,1
+408,49105767,Caballito,Capital Federal,54900,Venta,Apartamento,0.0,45.0,1
+409,49130594,Caballito,Capital Federal,110000,Venta,PH,2.0,112.0,1
+410,49136040,Vicente López,GBA Norte,25000,Alquiler,PH,0.0,20.0,0
+411,49137806,Núñez,Capital Federal,180000,Alquiler,Casa,3.0,200.0,1
+412,49141235,Barrio Norte,Capital Federal,38000,Alquiler,Apartamento,0.0,31.0,1
+413,49143253,Barrio Norte,Capital Federal,41000,Alquiler,Apartamento,1.0,37.0,0
+414,49143259,Recoleta,Capital Federal,32000,Alquiler,Apartamento,0.0,19.0,0
+415,49150053,Villa Urquiza,Capital Federal,139000,Alquiler,Apartamento,2.0,76.0,1
+416,49157789,Villa Urquiza,Capital Federal,150000,Alquiler,Casa,0.0,160.0,1
+417,49157973,Recoleta,Capital Federal,101500,Venta,Apartamento,3.0,54.0,1
+418,49159772,Caballito,Capital Federal,55000,Alquiler,Apartamento,2.0,50.0,1
+419,49162647,Caballito,Capital Federal,150000,Venta,PH,2.0,150.0,1
+420,49167078,Almagro,Capital Federal,35000,Alquiler,Apartamento,1.0,30.0,0
+421,49171849,Rosario,Santa Fe,26000,Alquiler,Apartamento,1.0,35.0,0
+422,49174112,Villa Devoto,Capital Federal,45000,Alquiler,Apartamento,1.0,48.0,1
+423,49174278,Villa Crespo,Capital Federal,32000,Alquiler,Apartamento,1.0,28.0,0
+424,49174966,Saavedra,Capital Federal,70000,Alquiler,Apartamento,3.0,86.0,1
+425,49175177,Barrio Norte,Capital Federal,70000,Alquiler,Apartamento,2.0,63.0,0
+426,49176866,Parque Chacabuco,Capital Federal,51000,Venta,Apartamento,2.0,70.0,1
+427,49176884,San Cristobal,Capital Federal,40000,Alquiler,Apartamento,1.0,40.0,1
+428,49177987,San Telmo,Capital Federal,55000,Alquiler,Apartamento,3.0,60.0,1
+429,49179651,Belgrano,Capital Federal,175000,Venta,PH,3.0,120.0,1
+430,49180681,Palermo,Capital Federal,185000,Venta,PH,1.0,106.0,1
+431,49184415,Avellaneda,GBA Sur,38000,Alquiler,PH,2.0,55.0,1
+432,49184605,Caballito,Capital Federal,58000,Alquiler,Apartamento,2.0,58.0,1
+433,49189453,Villa Crespo,Capital Federal,42000,Alquiler,Apartamento,1.0,42.0,0
+434,49191771,Escobar,GBA Norte,30000,Venta,Casa,4.0,834.0,1
+435,49192631,Lanús,GBA Sur,35000,Alquiler,Apartamento,2.0,60.0,1
+436,49199860,Flores,Capital Federal,65000,Alquiler,Apartamento,1.0,53.0,1
+437,49204991,Parque Patricios,Capital Federal,42000,Alquiler,Apartamento,1.0,38.0,0
+438,49208911,Flores,Capital Federal,35000,Alquiler,Apartamento,1.0,40.0,1
+439,49213295,Villa Crespo,Capital Federal,120000,Alquiler,PH,3.0,115.0,0
+440,49216251,Saavedra,Capital Federal,70000,Alquiler,Apartamento,3.0,90.0,0
+441,49218699,Villa Devoto,Capital Federal,59000,Alquiler,Apartamento,2.0,70.0,0
+442,49220900,Villa Urquiza,Capital Federal,120000,Alquiler,Apartamento,2.0,94.0,1
+443,49222620,Villa Santa Rita,Capital Federal,36000,Alquiler,Apartamento,0.0,,1
+444,49223860,Belgrano,Capital Federal,60000,Alquiler,Apartamento,1.0,58.0,0
+445,49230985,Villa del Parque,Capital Federal,35000,Alquiler,Apartamento,1.0,35.0,0
+446,49236692,Palermo,Capital Federal,218000,Venta,Apartamento,1.0,90.0,1
+447,49243507,Villa Devoto,Capital Federal,165000,Venta,PH,5.0,140.0,1
+448,49247317,Belgrano,Capital Federal,85000,Alquiler,Apartamento,2.0,52.0,1
+449,49250733,La Paternal,Capital Federal,35000,Alquiler,Apartamento,1.0,36.0,1
+450,49252656,Núñez,Capital Federal,49500,Alquiler,Apartamento,1.0,40.0,1
+451,49253952,Caballito,Capital Federal,58000,Alquiler,Apartamento,2.0,,1
+452,49254338,Vicente López,GBA Norte,145000,Alquiler,Casa,4.0,130.0,0
+453,49255641,Barrio Norte,Capital Federal,38000,Alquiler,Apartamento,1.0,32.0,0
+454,49257577,Belgrano,Capital Federal,70000,Alquiler,Apartamento,0.0,61.0,0
+455,49257793,Rosario,Santa Fe,43000,Alquiler,Apartamento,2.0,72.0,1
+456,49258595,Almagro,Capital Federal,37000,Alquiler,Apartamento,0.0,35.0,0
+457,49260021,Caballito,Capital Federal,42000,Alquiler,Apartamento,0.0,23.0,1
+458,49261157,Boedo,Capital Federal,42000,Venta,PH,2.0,55.0,1
+459,49263705,Retiro,Capital Federal,120000,Alquiler,Apartamento,1.0,105.0,1
+460,49264889,Belgrano,Capital Federal,69000,Alquiler,Apartamento,2.0,76.0,1
+461,49265558,Caballito,Capital Federal,40000,Alquiler,Apartamento,1.0,45.0,1
+462,49266932,Villa Urquiza,Capital Federal,165000,Venta,PH,2.0,120.0,1
+463,49267523,Caballito,Capital Federal,35000,Alquiler,Apartamento,1.0,36.0,1
+464,49269532,Caballito,Capital Federal,43000,Alquiler,Apartamento,1.0,32.0,0
+465,49272132,Villa Devoto,Capital Federal,70000,Alquiler,Apartamento,2.0,88.0,1
+466,49282293,Flores,Capital Federal,40000,Alquiler,Apartamento,1.0,40.0,1
+467,49284593,Balvanera,Capital Federal,40000,Alquiler,Apartamento,0.0,32.0,0
+468,49288456,Rosario,Santa Fe,40000,Alquiler,Casa,3.0,100.0,0
+469,49289592,Parque Chacabuco,Capital Federal,30000,Alquiler,PH,1.0,24.0,1
+470,49292259,Belgrano,Capital Federal,65000,Alquiler,Apartamento,2.0,70.0,0
+471,49292613,Almagro,Capital Federal,53000,Venta,Apartamento,1.0,40.0,1
+472,49293551,Colegiales,Capital Federal,190000,Venta,Apartamento,1.0,77.0,1
+473,49295066,Villa Urquiza,Capital Federal,45000,Alquiler,Apartamento,1.0,40.0,0
+474,49296234,Villa Devoto,Capital Federal,39000,Alquiler,Apartamento,1.0,30.0,1
+475,49296951,Almagro,Capital Federal,35000,Alquiler,Apartamento,1.0,36.0,1
+476,49297199,Villa Crespo,Capital Federal,50000,Alquiler,Apartamento,1.0,,0
+477,49303782,Barracas,Capital Federal,58000,Alquiler,Apartamento,1.0,,1
+478,49308344,La Boca,Capital Federal,25000,Alquiler,Apartamento,1.0,43.0,0
+479,49309257,Villa General Mitre,Capital Federal,100000,Venta,PH,2.0,80.0,1
+480,49309357,Almagro,Capital Federal,85000,Alquiler,PH,1.0,110.0,1
+481,49312083,Villa Urquiza,Capital Federal,62000,Alquiler,Apartamento,1.0,46.0,1
+482,49312525,Almagro,Capital Federal,75000,Alquiler,Apartamento,2.0,84.0,1
+483,49313679,Floresta,Capital Federal,40000,Alquiler,PH,1.0,,1
+484,49313903,Vicente López,GBA Norte,66000,Alquiler,PH,4.0,110.0,1
+485,49314432,Parque Chas,Capital Federal,75000,Alquiler,PH,2.0,49.0,1
+486,49315995,Villa Devoto,Capital Federal,60000,Alquiler,Apartamento,2.0,75.0,0
+487,49318939,Belgrano,Capital Federal,125000,Alquiler,Apartamento,3.0,88.0,1
+488,49320879,Barrio Norte,Capital Federal,39000,Venta,Apartamento,0.0,30.0,1
+489,49321624,Palermo,Capital Federal,62000,Alquiler,Apartamento,2.0,65.0,1
+490,49324646,Rosario,Santa Fe,38000,Alquiler,Apartamento,2.0,80.0,1
+491,49326377,San Telmo,Capital Federal,60000,Alquiler,Apartamento,1.0,200.0,1
+492,49326377,San Telmo,Capital Federal,60000,Alquiler temporal,Apartamento,1.0,200.0,1
+493,49328061,Barrio Norte,Capital Federal,55000,Alquiler,Apartamento,1.0,40.0,0
+494,49329224,Villa Urquiza,Capital Federal,48000,Alquiler,Apartamento,1.0,50.0,0
+495,49331056,Villa Pueyrredón,Capital Federal,55000,Alquiler,Apartamento,1.0,60.0,1
+496,49334613,Boedo,Capital Federal,42000,Alquiler,Apartamento,1.0,37.0,0
+497,49335829,Palermo,Capital Federal,75000,Alquiler,Apartamento,1.0,45.0,1
+498,49340895,Almagro,Capital Federal,50000,Alquiler,Apartamento,1.0,45.0,1
+499,49341294,Liniers,Capital Federal,35000,Alquiler,PH,1.0,45.0,1
+500,49342113,Belgrano,Capital Federal,80000,Alquiler,Apartamento,2.0,60.0,0
+501,49344732,Caballito,Capital Federal,30000,Alquiler,Apartamento,0.0,23.0,0
+502,49345189,Palermo,Capital Federal,45000,Alquiler,Apartamento,0.0,38.0,0
+503,49346284,Saavedra,Capital Federal,105000,Venta,PH,3.0,94.0,1
+504,49346711,Parque Patricios,Capital Federal,24000,Alquiler,Apartamento,0.0,32.0,0
+505,49348005,Caballito,Capital Federal,60000,Alquiler,Apartamento,2.0,61.0,1
+506,49348022,Vicente López,GBA Norte,130000,Alquiler,PH,2.0,148.0,1
+507,49348201,Villa Allende,Córdoba,134000,Venta,Casa,2.0,600.0,1
+508,49348398,Almagro,Capital Federal,51000,Alquiler,Apartamento,1.0,53.0,0
+509,49349311,Recoleta,Capital Federal,800,Alquiler,Apartamento,3.0,140.0,1
+510,49350862,Vicente López,GBA Norte,150000,Alquiler,Casa,2.0,120.0,1
+511,49353212,Vicente López,GBA Norte,45000,Alquiler,PH,2.0,90.0,0
+512,49354950,Lomas de Zamora,GBA Sur,42000,Alquiler,PH,2.0,90.0,1
+513,49355957,San Cristobal,Capital Federal,35000,Alquiler,Apartamento,1.0,30.0,1
+514,49363005,Almagro,Capital Federal,44000,Alquiler,Apartamento,1.0,45.0,0
+515,49364829,Córdoba,Córdoba,21000,Alquiler,Apartamento,1.0,45.0,0
+516,49364983,Belgrano,Capital Federal,43000,Alquiler,Apartamento,0.0,31.0,1
+517,49365846,San Nicolás,Capital Federal,40000,Alquiler,Apartamento,1.0,41.0,1
+518,49366168,Congreso,Capital Federal,33000,Alquiler,Apartamento,1.0,30.0,1
+519,49366484,Villa del Parque,Capital Federal,90000,Alquiler,PH,3.0,120.0,1
+520,49366930,Barrio Norte,Capital Federal,60000,Alquiler,Apartamento,2.0,70.0,0
+521,49367620,Belgrano,Capital Federal,42000,Alquiler,Apartamento,0.0,32.0,0
+522,49368483,Barrio Norte,Capital Federal,29000,Alquiler,Apartamento,1.0,30.0,0
+523,49369466,Villa Pueyrredón,Capital Federal,45000,Alquiler,PH,1.0,35.0,0
+524,49370136,San Nicolás,Capital Federal,65000,Alquiler,Apartamento,5.0,134.0,1
+525,49370675,Belgrano,Capital Federal,39000,Alquiler,Apartamento,1.0,38.0,1
+526,49371007,Vicente López,GBA Norte,55000,Alquiler,PH,2.0,70.0,0
+527,49375373,La Matanza,GBA Oeste,45000,Alquiler,Apartamento,2.0,70.0,1
+528,49375747,Recoleta,Capital Federal,35000,Alquiler,Apartamento,0.0,30.0,1
+529,49382515,Barrio Norte,Capital Federal,49000,Venta,Apartamento,1.0,41.0,1
+530,49383076,Villa Pueyrredón,Capital Federal,40000,Alquiler,PH,1.0,33.0,1
+531,49383511,Lomas de Zamora,GBA Sur,38000,Alquiler,Apartamento,1.0,60.0,0
+532,49397235,Avellaneda,GBA Sur,38000,Alquiler,PH,2.0,90.0,1
+533,49397614,Villa General Mitre,Capital Federal,45000,Alquiler,Apartamento,1.0,44.0,1
+534,49398388,Villa del Parque,Capital Federal,34000,Alquiler,Apartamento,1.0,32.0,0
+535,49403744,Caballito,Capital Federal,45000,Alquiler,Apartamento,1.0,32.0,1
+536,49405656,Caballito,Capital Federal,45000,Alquiler,Apartamento,1.0,44.0,1
+537,49407642,Rosario,Santa Fe,20000,Alquiler,Apartamento,,20.0,0
+538,49407785,Barrio Norte,Capital Federal,39000,Alquiler,Apartamento,0.0,30.0,1
+539,49408832,Belgrano,Capital Federal,85000,Alquiler,Apartamento,2.0,75.0,1
+540,49412944,Recoleta,Capital Federal,40000,Alquiler,Apartamento,,25.0,1
+541,49413333,Núñez,Capital Federal,60000,Alquiler,Apartamento,1.0,70.0,0
+542,49415562,Caballito,Capital Federal,60000,Alquiler,Apartamento,2.0,70.0,1
+543,49415866,Barrio Norte,Capital Federal,130000,Alquiler,Apartamento,3.0,153.0,1
+544,49417277,Balvanera,Capital Federal,33000,Alquiler,Apartamento,1.0,30.0,0
+545,49417833,Colegiales,Capital Federal,53000,Alquiler,Apartamento,2.0,40.0,1
+546,49418719,Mataderos,Capital Federal,45000,Alquiler,Apartamento,1.0,60.0,1
+547,49418897,Flores,Capital Federal,154000,Venta,Apartamento,3.0,72.0,0
+548,49421253,Palermo,Capital Federal,50000,Alquiler,Apartamento,1.0,40.0,1
+549,49421765,Belgrano,Capital Federal,39000,Alquiler,Apartamento,1.0,36.0,0
+550,49421832,Barrio Norte,Capital Federal,32900,Alquiler,Apartamento,0.0,34.0,0
+551,49421918,Palermo,Capital Federal,44500,Alquiler,Apartamento,1.0,34.0,1
+552,49422091,Saavedra,Capital Federal,180000,Venta,PH,3.0,154.0,0
+553,49423763,Almagro,Capital Federal,45000,Alquiler,Apartamento,1.0,45.0,0
+554,49426413,Belgrano,Capital Federal,110000,Alquiler,Apartamento,2.0,76.0,1
+555,49426576,Abasto,Capital Federal,65000,Alquiler,Apartamento,2.0,65.0,1
+556,49427326,Colegiales,Capital Federal,45000,Alquiler,Apartamento,1.0,40.0,1
+557,49428090,Balvanera,Capital Federal,45000,Alquiler,Apartamento,1.0,54.0,0
+558,49428111,Balvanera,Capital Federal,75000,Alquiler,Apartamento,2.0,57.0,0
+559,49428783,Rosario,Santa Fe,31000,Alquiler,Apartamento,,37.0,0
+560,49428838,Coghlan,Capital Federal,38000,Alquiler,Apartamento,1.0,35.0,0
+561,49429071,Recoleta,Capital Federal,95000,Alquiler,Apartamento,3.0,95.0,0
+562,49430771,Almagro,Capital Federal,40000,Alquiler,Apartamento,1.0,40.0,0
+563,49430897,Palermo,Capital Federal,50000,Alquiler,Apartamento,1.0,50.0,0
+564,49431403,Villa Urquiza,Capital Federal,50000,Alquiler,Apartamento,1.0,38.0,1
+565,49433114,Rosario,Santa Fe,25000,Alquiler,Apartamento,1.0,30.0,1
+566,49434214,Palermo,Capital Federal,110000,Alquiler,Apartamento,2.0,94.0,0
+567,49434318,Villa Lugano,Capital Federal,42000,Alquiler,PH,1.0,50.0,0
+568,49434444,Vicente López,GBA Norte,52000,Alquiler,Apartamento,2.0,52.0,1
+569,49434725,Villa Crespo,Capital Federal,54000,Venta,Apartamento,1.0,58.0,1
+570,49434729,Rosario,Santa Fe,55000,Alquiler,Apartamento,2.0,65.0,1
+571,49436030,Belgrano,Capital Federal,44000,Alquiler,Apartamento,1.0,38.0,1
+572,49436313,Palermo,Capital Federal,258000,Venta,Apartamento,2.0,94.0,1
+573,49436649,Recoleta,Capital Federal,210000,Venta,Apartamento,3.0,90.0,1
+574,49437118,Belgrano,Capital Federal,55000,Alquiler,Apartamento,1.0,50.0,1
+575,49437533,Caballito,Capital Federal,68000,Alquiler,Apartamento,1.0,55.0,1
+576,49437757,Vicente López,GBA Norte,30000,Alquiler,PH,0.0,,0
+577,49438882,Villa Urquiza,Capital Federal,55000,Alquiler,PH,1.0,51.0,1
+578,49439041,Recoleta,Capital Federal,75000,Alquiler,Apartamento,3.0,97.0,1
+579,49440840,San Isidro,GBA Norte,110000,Alquiler,Casa,2.0,116.0,1
+580,49442557,San Isidro,GBA Norte,70000,Alquiler,Apartamento,2.0,50.0,1
+581,49443366,Monserrat,Capital Federal,40000,Alquiler,Apartamento,1.0,20.0,1
+582,49443366,Monserrat,Capital Federal,40000,Alquiler temporal,Apartamento,1.0,20.0,1
+583,49445115,Villa del Parque,Capital Federal,45000,Alquiler,Apartamento,1.0,40.0,1
+584,49445690,Caballito,Capital Federal,85000,Alquiler,Apartamento,3.0,81.0,1
+585,49445722,Almagro,Capital Federal,30000,Alquiler,Apartamento,1.0,35.0,0
+586,49445951,Monserrat,Capital Federal,38000,Alquiler,Apartamento,1.0,40.0,1
+587,49449521,Caballito,Capital Federal,150000,Alquiler,PH,3.0,172.0,0
+588,49449737,San Isidro,GBA Norte,137000,Alquiler,Casa,2.0,120.0,0
+589,49449759,Tres de Febrero,GBA Oeste,28000,Alquiler,Apartamento,1.0,44.0,1
+590,49449799,Palermo,Capital Federal,100000,Alquiler,PH,2.0,82.0,1
+591,49449873,Palermo,Capital Federal,59500,Alquiler,Apartamento,1.0,55.0,1
+592,49450873,Villa Urquiza,Capital Federal,33000,Alquiler,Apartamento,1.0,46.0,0
+593,49451075,Palermo,Capital Federal,100000,Alquiler,Apartamento,1.0,53.0,0
+594,49451445,San Cristobal,Capital Federal,35000,Alquiler,PH,0.0,21.0,1
+595,49452582,Córdoba,Córdoba,30000,Alquiler,Apartamento,1.0,45.0,0
+596,49453022,Villa Crespo,Capital Federal,38000,Alquiler,PH,,38.0,0
+597,49454671,Núñez,Capital Federal,39000,Alquiler,Apartamento,1.0,38.0,1
+598,49454707,Quilmes,GBA Sur,45000,Alquiler,Casa,3.0,95.0,1
+599,49455400,Palermo,Capital Federal,1700,Alquiler,Apartamento,3.0,115.0,1
+600,49455752,Recoleta,Capital Federal,55000,Alquiler,Apartamento,0.0,48.0,0
+601,49457225,Recoleta,Capital Federal,100000,Alquiler,PH,3.0,80.0,0
+602,49457375,Rosario,Santa Fe,37000,Alquiler,Apartamento,,58.0,1
+603,49457589,San Isidro,GBA Norte,45000,Alquiler,PH,1.0,42.0,1
+604,49458563,Vicente López,GBA Norte,70000,Alquiler,PH,2.0,60.0,1
+605,49458804,San Isidro,GBA Norte,99000,Alquiler,Casa,3.0,,0
+606,49458918,Caballito,Capital Federal,60000,Alquiler,PH,2.0,65.0,0
+607,49459687,Villa General Mitre,Capital Federal,79000,Alquiler,PH,2.0,85.0,1
+608,49460761,Villa del Parque,Capital Federal,35000,Alquiler,Apartamento,0.0,30.0,0
+609,49461176,Palermo,Capital Federal,55000,Alquiler,Apartamento,0.0,41.0,0
+610,49462300,Rosario,Santa Fe,30000,Alquiler,Apartamento,1.0,36.0,0
+611,49462579,Villa Crespo,Capital Federal,49900,Alquiler,Apartamento,2.0,60.0,0
+612,49462641,Belgrano,Capital Federal,50000,Alquiler,Apartamento,1.0,46.0,0
+613,49463050,Rosario,Santa Fe,35000,Alquiler,Apartamento,2.0,45.0,1
+614,49469296,Belgrano,Capital Federal,450000,Venta,Casa,4.0,411.0,1
+615,49469397,Constitución,Capital Federal,32000,Alquiler,Apartamento,0.0,,0
+616,49469823,Caballito,Capital Federal,85000,Alquiler,Apartamento,3.0,94.0,1
+617,49470012,Almagro,Capital Federal,60000,Alquiler,PH,1.0,40.0,1
+618,49473924,Colegiales,Capital Federal,45000,Alquiler,Apartamento,0.0,30.0,1
+619,49474874,Chacarita,Capital Federal,55000,Alquiler,Apartamento,0.0,57.0,1
+620,49474899,Núñez,Capital Federal,40000,Alquiler,Apartamento,0.0,35.0,1
+621,49476572,Villa Devoto,Capital Federal,100000,Alquiler,Casa,,100.0,1
+622,49478420,Parque Patricios,Capital Federal,65000,Alquiler,Apartamento,1.0,55.0,0
+623,49478488,Colegiales,Capital Federal,33000,Alquiler,Apartamento,1.0,36.0,0
+624,49479254,Boedo,Capital Federal,25000,Alquiler,Apartamento,0.0,24.0,0
+625,49481612,Almagro,Capital Federal,48000,Alquiler,Apartamento,1.0,50.0,0
+626,49481703,Belgrano,Capital Federal,54000,Alquiler,Apartamento,1.0,40.0,1
+627,49481718,Belgrano,Capital Federal,45000,Alquiler,Apartamento,1.0,43.0,0
+628,49484002,Balvanera,Capital Federal,42000,Alquiler,Apartamento,1.0,30.0,1
+629,49484643,Rosario,Santa Fe,35000,Alquiler,Apartamento,2.0,66.0,0
+630,49485180,Rosario,Santa Fe,40000,Alquiler,Apartamento,2.0,57.0,0
+631,49485355,Flores,Capital Federal,32000,Alquiler,Apartamento,0.0,24.0,1
+632,49486368,Congreso,Capital Federal,40000,Alquiler,Apartamento,1.0,31.0,0
+633,49487033,Palermo,Capital Federal,350000,Venta,Apartamento,3.0,120.0,1
+634,49487247,Lanús,GBA Sur,30000,Alquiler,Apartamento,2.0,1.0,1
+635,49487424,Villa Urquiza,Capital Federal,38000,Alquiler,Apartamento,1.0,37.0,1
+636,49487785,Parque Patricios,Capital Federal,33000,Alquiler,PH,1.0,32.0,1
+637,49487816,Palermo,Capital Federal,39500,Alquiler,Apartamento,1.0,35.0,1
+638,49487843,San Telmo,Capital Federal,45000,Alquiler,Apartamento,0.0,38.0,1
+639,49488472,Caballito,Capital Federal,35000,Alquiler,Apartamento,1.0,36.0,0
+640,49491605,Rosario,Santa Fe,33000,Alquiler,Apartamento,1.0,46.0,1
+641,49491825,Centro / Microcentro,Capital Federal,37000,Alquiler,Apartamento,1.0,33.0,1
+642,49491837,Flores,Capital Federal,57000,Alquiler,Apartamento,2.0,94.0,0
+643,49493197,Palermo,Capital Federal,110000,Venta,Apartamento,1.0,55.0,1
+644,49494613,General San Martín,GBA Norte,20000,Alquiler,Apartamento,0.0,15.0,1
+645,49494880,Monte Castro,Capital Federal,50000,Alquiler,PH,1.0,,1
+646,49495223,Caballito,Capital Federal,95000,Alquiler,Apartamento,3.0,96.0,1
+647,49495888,Barrio Norte,Capital Federal,40000,Alquiler,Apartamento,1.0,30.0,1
+648,49495889,San Isidro,GBA Norte,47800,Alquiler,PH,2.0,64.0,0
+649,49496066,Barrio Norte,Capital Federal,55000,Alquiler,Apartamento,2.0,54.0,0
+650,49498441,Barrio Norte,Capital Federal,80000,Alquiler,Apartamento,2.0,80.0,1
+651,49498592,General San Martín,GBA Norte,32000,Alquiler,Apartamento,2.0,65.0,1
+652,49499208,Rosario,Santa Fe,23000,Alquiler,Apartamento,1.0,42.0,0
+653,49501289,Palermo,Capital Federal,87000,Alquiler,Apartamento,2.0,60.0,1
+654,49501604,Floresta,Capital Federal,75000,Alquiler,PH,2.0,58.0,1
+655,49501658,Saavedra,Capital Federal,65000,Alquiler,PH,1.0,50.0,0
+656,49502212,Barrio Norte,Capital Federal,85000,Alquiler,Apartamento,2.0,80.0,1
+657,49504611,Lomas de Zamora,GBA Sur,30000,Alquiler,PH,1.0,36.0,0
+658,49504700,Lomas de Zamora,GBA Sur,32000,Alquiler,Apartamento,1.0,35.0,1
+659,49504719,Córdoba,Córdoba,30000,Alquiler,Casa,1.0,1000.0,0
+660,49505030,San Isidro,GBA Norte,60000,Alquiler,Apartamento,2.0,55.0,1
+661,49505157,Palermo,Capital Federal,52000,Alquiler,Apartamento,0.0,38.0,1
+662,49506137,Villa Crespo,Capital Federal,30000,Alquiler,Apartamento,0.0,24.0,0
+663,49506314,Belgrano,Capital Federal,35000,Alquiler,Apartamento,1.0,33.0,0
+664,49506570,Belgrano,Capital Federal,44000,Alquiler,PH,1.0,36.0,0
+665,49506580,Villa Urquiza,Capital Federal,70000,Alquiler,PH,0.0,70.0,0
+666,49509751,Villa Pueyrredón,Capital Federal,38000,Alquiler,Apartamento,1.0,40.0,0
+667,49509936,Villa Urquiza,Capital Federal,95000,Alquiler,PH,3.0,146.0,0
+668,49511518,Villa Crespo,Capital Federal,42000,Alquiler,Apartamento,0.0,33.0,1
+669,49512137,Barrio Norte,Capital Federal,80000,Alquiler,Apartamento,2.0,60.0,1
+670,49512289,Palermo,Capital Federal,60000,Alquiler,Apartamento,2.0,55.0,0
+671,49512323,Recoleta,Capital Federal,38000,Alquiler,Apartamento,0.0,28.0,0
+672,49512973,Saavedra,Capital Federal,58000,Alquiler,Apartamento,0.0,46.0,1
+673,49513274,Abasto,Capital Federal,55000,Alquiler,Apartamento,2.0,70.0,0
+674,49515629,Belgrano,Capital Federal,64000,Alquiler,Apartamento,2.0,58.0,0
+675,49516116,Villa Devoto,Capital Federal,37000,Alquiler,Apartamento,0.0,35.0,0
+676,49516718,Caballito,Capital Federal,98000,Alquiler,PH,3.0,100.0,0
+677,49517619,Belgrano,Capital Federal,55000,Alquiler,Apartamento,1.0,50.0,1
+678,49517718,Villa del Parque,Capital Federal,50000,Alquiler,Apartamento,0.0,42.0,1
+679,49517731,Chacarita,Capital Federal,48000,Alquiler,Apartamento,1.0,55.0,0
+680,49520055,Lanús,GBA Sur,35000,Alquiler,Apartamento,1.0,120.0,0
+681,49520297,Colegiales,Capital Federal,55000,Alquiler,Apartamento,1.0,50.0,1
+682,49520529,San Isidro,GBA Norte,70000,Alquiler,Casa,4.0,180.0,0
+683,49521078,Palermo,Capital Federal,98000,Alquiler,Apartamento,2.0,72.0,0
+684,49521954,Núñez,Capital Federal,72000,Alquiler,Apartamento,2.0,63.0,1
+685,49522543,Villa Urquiza,Capital Federal,42000,Alquiler,Apartamento,1.0,35.0,1
+686,49522767,Villa Urquiza,Capital Federal,50000,Alquiler,Apartamento,1.0,45.0,1
+687,49522938,Caballito,Capital Federal,60000,Alquiler,Apartamento,3.0,65.0,0
+688,49523300,Barracas,Capital Federal,33000,Alquiler,Apartamento,1.0,40.0,1
+689,49523636,Belgrano,Capital Federal,58000,Alquiler,Apartamento,0.0,,0
+690,49524111,Almagro,Capital Federal,40000,Alquiler,Apartamento,0.0,36.0,1
+691,49524385,Rosario,Santa Fe,60000,Alquiler,Apartamento,2.0,65.0,1
+692,49525727,Belgrano,Capital Federal,45000,Alquiler,Apartamento,0.0,40.0,0
+693,49525780,Barrio Norte,Capital Federal,43000,Alquiler,Apartamento,0.0,34.0,1
+694,49525868,Vicente López,GBA Norte,75000,Alquiler,PH,2.0,67.0,1
+695,49526999,Recoleta,Capital Federal,75000,Alquiler,Apartamento,1.0,75.0,1
+696,49527608,Parque Avellaneda,Capital Federal,45000,Alquiler,PH,1.0,45.0,0
+697,49528201,Vicente López,GBA Norte,40000,Alquiler,PH,1.0,50.0,1
+698,49528827,Villa Crespo,Capital Federal,99900,Alquiler,PH,3.0,95.0,0
+699,49529549,Villa Urquiza,Capital Federal,39000,Alquiler,Apartamento,0.0,27.0,0
+700,49529802,Quilmes,GBA Sur,45000,Alquiler,PH,2.0,1.0,1
+701,49529809,Caballito,Capital Federal,103000,Venta,PH,2.0,72.0,1
+702,49530180,San Isidro,GBA Norte,49000,Alquiler,PH,2.0,65.0,0
+703,49530325,Palermo,Capital Federal,55000,Alquiler,Apartamento,0.0,37.0,0
+704,49531156,Belgrano,Capital Federal,48000,Alquiler,Apartamento,1.0,40.0,1
+705,49532061,Avellaneda,GBA Sur,24000,Alquiler,PH,0.0,25.0,1
+706,49532595,Belgrano,Capital Federal,40000,Alquiler,Apartamento,1.0,40.0,0
+707,49534642,Villa Crespo,Capital Federal,65000,Alquiler,Apartamento,2.0,60.0,1
+708,49535087,Caballito,Capital Federal,49000,Alquiler,Apartamento,0.0,43.0,1
+709,49535451,Boedo,Capital Federal,49000,Alquiler,Apartamento,2.0,66.0,0
+710,49536586,Belgrano,Capital Federal,75000,Alquiler,Apartamento,1.0,70.0,0
+711,49537155,Palermo,Capital Federal,65000,Alquiler,Apartamento,1.0,45.0,0
+712,49537289,Belgrano,Capital Federal,55000,Alquiler,Apartamento,1.0,45.0,1
+713,49537308,Barrio Norte,Capital Federal,80000,Alquiler,Apartamento,2.0,75.0,1
+714,49539186,Once,Capital Federal,80000,Alquiler,PH,2.0,90.0,1
+715,49539478,Lomas de Zamora,GBA Sur,45000,Alquiler,Casa,2.0,80.0,1
+716,49540428,Vicente López,GBA Norte,110000,Alquiler,Casa,2.0,150.0,1
+717,49541111,Villa Urquiza,Capital Federal,55000,Alquiler,Apartamento,1.0,50.0,0
+718,49541112,Palermo,Capital Federal,60000,Alquiler,Apartamento,2.0,61.0,1
+719,49541188,Villa Urquiza,Capital Federal,94700,Alquiler,Apartamento,3.0,83.0,1
+720,49541339,Belgrano,Capital Federal,79000,Venta,Apartamento,1.0,45.0,1
+721,49541761,Córdoba,Córdoba,30000,Alquiler,Apartamento,1.0,45.0,0
+722,49541842,Villa Luro,Capital Federal,40000,Alquiler,Apartamento,0.0,48.0,0
+723,49543322,Lanús,GBA Sur,45000,Alquiler,Casa,2.0,207.0,0
+724,49543502,San Isidro,GBA Norte,60000,Alquiler,PH,2.0,73.0,0
+725,49543507,Caballito,Capital Federal,62000,Alquiler,Apartamento,2.0,50.0,0
+726,49543617,Rosario,Santa Fe,35000,Alquiler,Apartamento,1.0,38.0,1
+727,49543848,San Cristobal,Capital Federal,65000,Alquiler,Apartamento,4.0,90.0,0
+728,49543951,Colegiales,Capital Federal,65000,Alquiler,PH,2.0,65.0,1
+729,49543963,Caballito,Capital Federal,40000,Alquiler,Apartamento,1.0,31.0,1
+730,49544227,Palermo,Capital Federal,35000,Alquiler,Apartamento,1.0,37.0,0
+731,49544396,San Isidro,GBA Norte,75000,Alquiler,Casa,2.0,62.0,1
+732,49545598,Once,Capital Federal,28000,Alquiler,Apartamento,0.0,24.0,0
+733,49548357,Palermo,Capital Federal,40000,Alquiler,Apartamento,1.0,30.0,1
+734,49548764,Rosario,Santa Fe,40000,Alquiler,Apartamento,1.0,40.0,0
+735,49549104,Villa Crespo,Capital Federal,45000,Alquiler,Apartamento,0.0,41.0,0
+736,49549724,Rosario,Santa Fe,28500,Alquiler,Apartamento,0.0,,0
+737,49550421,Núñez,Capital Federal,100000,Alquiler,Apartamento,2.0,96.0,1
+738,49551449,Colegiales,Capital Federal,85000,Alquiler,Apartamento,3.0,86.0,1
+739,49552038,Flores,Capital Federal,28000,Alquiler,Apartamento,0.0,30.0,1
+740,49552500,Rosario,Santa Fe,27500,Alquiler,Apartamento,0.0,28.0,0
+741,49552607,Villa Urquiza,Capital Federal,80000,Alquiler,Apartamento,1.0,55.0,1
+742,49552779,Almagro,Capital Federal,33000,Alquiler,Apartamento,1.0,29.0,0
+743,49552872,Rosario,Santa Fe,30000,Alquiler,Apartamento,0.0,32.0,0
+744,49552882,Balvanera,Capital Federal,40000,Alquiler,Apartamento,1.0,39.0,1
+745,49553208,Almagro,Capital Federal,44000,Alquiler,Apartamento,1.0,42.0,0
+746,49556029,Vicente López,GBA Norte,97000,Alquiler,Casa,2.0,90.0,0
+747,49556367,La Paternal,Capital Federal,55000,Alquiler,Apartamento,2.0,66.0,1
+748,49556446,La Matanza,GBA Oeste,47000,Alquiler,Casa,2.0,75.0,1
+749,49556826,Caballito,Capital Federal,38000,Alquiler,Apartamento,0.0,38.0,1
+750,49557084,Palermo,Capital Federal,34500,Alquiler,Apartamento,,34.0,0
+751,49557162,Núñez,Capital Federal,128000,Alquiler,Apartamento,,115.0,1
+752,49558478,Villa Devoto,Capital Federal,110000,Alquiler,Apartamento,5.0,135.0,0
+753,49558709,Villa Pueyrredón,Capital Federal,30000,Alquiler,Apartamento,0.0,25.0,1
+754,49559278,Almagro,Capital Federal,35000,Alquiler,Apartamento,1.0,25.0,1
+755,49559959,Villa Urquiza,Capital Federal,86000,Alquiler,PH,2.0,83.0,0
+756,49560161,La Matanza,GBA Oeste,65000,Alquiler,PH,2.0,120.0,1
+757,49561130,Almagro,Capital Federal,39000,Alquiler,Apartamento,1.0,37.0,0
+758,49561246,Flores,Capital Federal,46000,Alquiler,Apartamento,1.0,48.0,0
+759,49561525,Palermo,Capital Federal,58000,Alquiler,Apartamento,1.0,40.0,1
+760,49562062,Vicente López,GBA Norte,90000,Alquiler,Casa,2.0,260.0,1
+761,49562386,Tribunales,Capital Federal,25500,Alquiler,Apartamento,,21.0,1
+762,49562881,Monserrat,Capital Federal,53000,Alquiler,Apartamento,2.0,80.0,0
+763,49563178,Belgrano,Capital Federal,55000,Alquiler,Apartamento,1.0,37.0,0
+764,49563386,Rosario,Santa Fe,35000,Alquiler,Apartamento,1.0,45.0,1
+765,49564648,Rosario,Santa Fe,34000,Alquiler,Apartamento,1.0,42.0,1
+766,49565094,Palermo,Capital Federal,60000,Alquiler,Apartamento,1.0,30.0,1
+767,49565267,Recoleta,Capital Federal,100000,Alquiler,Apartamento,3.0,145.0,1
+768,49565279,San Isidro,GBA Norte,51000,Alquiler,Casa,1.0,56.0,0
+769,49565479,San Isidro,GBA Norte,83000,Alquiler,Casa,2.0,85.0,0
+770,49565508,Monte Castro,Capital Federal,38000,Alquiler,Apartamento,1.0,,1
+771,49565977,Núñez,Capital Federal,70000,Alquiler,Apartamento,1.0,57.0,0
+772,49566098,Villa Luro,Capital Federal,40000,Alquiler,Apartamento,1.0,56.0,0
+773,49566108,Villa Crespo,Capital Federal,40000,Alquiler,Apartamento,1.0,30.0,1
+774,49567018,Villa Crespo,Capital Federal,60000,Alquiler,Apartamento,2.0,67.0,1
+775,49567990,Parque Chas,Capital Federal,42000,Alquiler,Apartamento,1.0,35.0,0
+776,49568147,Parque Chas,Capital Federal,32000,Alquiler,Apartamento,,30.0,0
+777,49569777,Congreso,Capital Federal,42000,Alquiler,Apartamento,1.0,35.0,1
+778,49569939,Rosario,Santa Fe,92000,Venta,Apartamento,2.0,75.0,1
+779,49569945,Caballito,Capital Federal,85000,Alquiler,PH,2.0,76.0,1
+780,49570155,Vicente López,GBA Norte,100000,Alquiler,Casa,3.0,120.0,1
+781,49570770,Caballito,Capital Federal,75000,Alquiler,Apartamento,3.0,72.0,1
+782,49571344,Lomas de Zamora,GBA Sur,40000,Alquiler,Apartamento,2.0,65.0,1
+783,49571428,Coghlan,Capital Federal,69000,Alquiler,Apartamento,1.0,50.0,0
+784,49572383,Vicente López,GBA Norte,65000,Alquiler,Apartamento,2.0,,1
+785,49572557,La Paternal,Capital Federal,70000,Alquiler,PH,2.0,185.0,1
+786,49572996,Vicente López,GBA Norte,40000,Alquiler,Apartamento,1.0,36.0,0
+787,49573110,Vicente López,GBA Norte,35000,Alquiler,Apartamento,0.0,24.0,0
+788,49573127,Lanús,GBA Sur,38000,Alquiler,PH,1.0,80.0,1
+789,49573503,Rosario,Santa Fe,40000,Alquiler,Apartamento,2.0,47.0,0
+790,49573644,Rosario,Santa Fe,45000,Alquiler,Apartamento,2.0,52.0,1
+791,49574135,Palermo,Capital Federal,90000,Alquiler,Apartamento,2.0,85.0,1
+792,49574542,San Isidro,GBA Norte,40000,Alquiler,PH,1.0,49.0,1
+793,49574911,Boedo,Capital Federal,40000,Alquiler,Apartamento,1.0,38.0,1
+794,49575001,San Fernando,GBA Norte,110000,Alquiler,Casa,3.0,220.0,1
+795,49575138,San Telmo,Capital Federal,49000,Alquiler,Apartamento,1.0,52.0,0
+796,49575491,Belgrano,Capital Federal,400,Alquiler,Apartamento,1.0,45.0,0
+797,49575518,Almagro,Capital Federal,75000,Alquiler,Apartamento,1.0,60.0,1
+798,49575822,Recoleta,Capital Federal,38000,Alquiler,Apartamento,2.0,60.0,0
+799,49576046,Flores,Capital Federal,60000,Alquiler,Apartamento,2.0,65.0,0
+800,49576241,San Isidro,GBA Norte,40000,Alquiler,PH,0.0,26.0,1
+801,49576278,Congreso,Capital Federal,50000,Alquiler,Apartamento,2.0,63.0,1
+802,49576387,Rosario,Santa Fe,30000,Alquiler,Apartamento,0.0,33.0,0
+803,49576704,Recoleta,Capital Federal,35000,Alquiler,Apartamento,1.0,28.0,0
+804,49576912,Caballito,Capital Federal,68000,Alquiler,Apartamento,2.0,72.0,0
+805,49577365,Floresta,Capital Federal,35000,Alquiler,Apartamento,0.0,34.0,1
+806,49577895,Tres de Febrero,GBA Oeste,50000,Alquiler,PH,2.0,70.0,0
+807,49578619,Vicente López,GBA Norte,75000,Alquiler,Apartamento,1.0,53.0,0
+808,49578962,Rosario,Santa Fe,25000,Alquiler,Apartamento,0.0,25.0,0
+809,49579492,Villa Urquiza,Capital Federal,70000,Alquiler,PH,2.0,1.0,0
+810,49579567,Rosario,Santa Fe,45000,Alquiler,Apartamento,2.0,120.0,1
+811,49581260,Floresta,Capital Federal,46000,Alquiler,Apartamento,,54.0,0
+812,49581293,Avellaneda,GBA Sur,38000,Alquiler,Apartamento,2.0,,0
+813,49581306,Palermo,Capital Federal,68000,Alquiler,Apartamento,1.0,50.0,1
+814,49581437,Palermo,Capital Federal,69000,Alquiler,Apartamento,2.0,53.0,1
+815,49581974,Belgrano,Capital Federal,62000,Alquiler,Apartamento,2.0,62.0,0
+816,49581988,La Matanza,GBA Oeste,30000,Alquiler,PH,2.0,60.0,1
+817,49582047,Caballito,Capital Federal,38000,Alquiler,Apartamento,1.0,30.0,1
+818,49582122,Belgrano,Capital Federal,75000,Alquiler,Apartamento,2.0,82.0,1
+819,49582414,Palermo,Capital Federal,110000,Alquiler,Apartamento,2.0,65.0,1
+820,49583024,Vicente López,GBA Norte,80000,Alquiler,Apartamento,2.0,67.0,1
+821,49583170,Palermo,Capital Federal,29000,Alquiler,Apartamento,0.0,16.0,0
+822,49583353,Villa del Parque,Capital Federal,35000,Alquiler,Apartamento,0.0,35.0,0
+823,49583449,San Isidro,GBA Norte,75000,Alquiler,PH,2.0,62.0,1
+824,49583542,Vicente López,GBA Norte,37000,Alquiler,PH,1.0,33.0,0
+825,49583872,Flores,Capital Federal,50000,Alquiler,Apartamento,2.0,70.0,0
+826,49583934,Villa Devoto,Capital Federal,100000,Alquiler,Apartamento,2.0,93.0,1
+827,49584036,Córdoba,Córdoba,35000,Alquiler,Apartamento,1.0,40.0,1
+828,49584382,Almagro,Capital Federal,57000,Alquiler,Apartamento,1.0,40.0,1
+829,49584616,Belgrano,Capital Federal,135000,Alquiler,Apartamento,2.0,128.0,0
+830,49584680,Lomas de Zamora,GBA Sur,45000,Alquiler,Apartamento,1.0,50.0,0
+831,49584829,Almagro,Capital Federal,58000,Alquiler,PH,2.0,65.0,0
+832,49585551,Lomas de Zamora,GBA Sur,40000,Alquiler,Casa,2.0,,1
+833,49585572,Belgrano,Capital Federal,140000,Venta,PH,4.0,149.0,1
+834,49585965,Villa Pueyrredón,Capital Federal,43000,Alquiler,Apartamento,1.0,40.0,1
+835,49587153,Villa Devoto,Capital Federal,90000,Alquiler,PH,2.0,75.0,0
+836,49587203,Villa Crespo,Capital Federal,54000,Alquiler,Apartamento,,43.0,0
+837,49587608,Palermo,Capital Federal,70000,Alquiler,Apartamento,2.0,66.0,1
+838,49587682,Caballito,Capital Federal,30000,Alquiler,Apartamento,1.0,28.0,1
+839,49588458,Tres de Febrero,GBA Oeste,50000,Alquiler,PH,2.0,75.0,0
+840,49588774,San Isidro,GBA Norte,140000,Alquiler,PH,2.0,15.0,0
+841,49589244,Villa Urquiza,Capital Federal,50000,Alquiler,Apartamento,1.0,55.0,0
+842,49589488,Lomas de Zamora,GBA Sur,50000,Alquiler,Casa,3.0,100.0,1
+843,49589511,Palermo,Capital Federal,60000,Alquiler,Apartamento,0.0,52.0,1
+844,49589608,Palermo,Capital Federal,40000,Alquiler,Apartamento,1.0,40.0,1
+845,49589821,Saavedra,Capital Federal,69000,Venta,PH,4.0,154.0,1
+846,49589874,Colegiales,Capital Federal,80000,Alquiler,Apartamento,3.0,91.0,0
+847,49590168,Palermo,Capital Federal,40000,Alquiler,Casa,2.0,65.0,1
+848,49590177,Villa Pueyrredón,Capital Federal,89900,Alquiler,PH,4.0,209.0,1
+849,49590194,Villa Pueyrredón,Capital Federal,75000,Alquiler,PH,1.0,80.0,1
+850,49590475,Almagro,Capital Federal,25000,Alquiler,Apartamento,0.0,22.0,1
+851,49590944,Almagro,Capital Federal,42000,Alquiler,Apartamento,1.0,39.0,1
+852,49591000,Congreso,Capital Federal,33000,Alquiler,Apartamento,0.0,40.0,1
+853,49592561,Saavedra,Capital Federal,65000,Alquiler,Apartamento,2.0,52.0,0
+854,49592819,Palermo,Capital Federal,45000,Alquiler,Apartamento,1.0,44.0,0
+855,49593168,Vicente López,GBA Norte,70000,Alquiler,Apartamento,2.0,53.0,0
+856,49593809,San Isidro,GBA Norte,90000,Alquiler,Apartamento,3.0,,1
+857,49594615,Caballito,Capital Federal,50000,Alquiler,Apartamento,2.0,62.0,1
+858,49594792,Barrio Norte,Capital Federal,31000,Alquiler,Apartamento,1.0,25.0,0
+859,49594831,Caballito,Capital Federal,95000,Alquiler,Apartamento,3.0,134.0,1
+860,49594856,Villa Crespo,Capital Federal,55000,Alquiler,Apartamento,2.0,51.0,0
+861,49595813,Belgrano,Capital Federal,45000,Alquiler,Apartamento,1.0,31.0,0
+862,49596710,Flores,Capital Federal,32000,Alquiler,Apartamento,0.0,29.0,0
+863,49596857,Belgrano,Capital Federal,45000,Alquiler,Apartamento,1.0,55.0,0
+864,49597080,Caballito,Capital Federal,90000,Alquiler,Apartamento,3.0,83.0,1
+865,49597191,Mataderos,Capital Federal,55000,Alquiler,PH,2.0,100.0,0
+866,49597613,Belgrano,Capital Federal,120000,Alquiler,Apartamento,3.0,110.0,1
+867,49597785,Núñez,Capital Federal,55000,Alquiler,Apartamento,1.0,38.0,1
+868,49597787,Flores,Capital Federal,50000,Alquiler,Apartamento,2.0,56.0,1
+869,49598564,Villa Urquiza,Capital Federal,44000,Alquiler,Apartamento,1.0,40.0,1
+870,49599105,Vicente López,GBA Norte,55000,Alquiler,Apartamento,1.0,43.0,1
+871,49599119,Barrio Norte,Capital Federal,48000,Alquiler,Apartamento,1.0,60.0,0
+872,49599146,La Paternal,Capital Federal,45000,Alquiler,Apartamento,1.0,39.0,0
+873,49599207,Avellaneda,GBA Sur,39000,Alquiler,PH,2.0,65.0,1
+874,49600097,Lomas de Zamora,GBA Sur,30000,Alquiler,Apartamento,2.0,45.0,0
+875,49600140,Belgrano,Capital Federal,68000,Alquiler,Apartamento,2.0,60.0,0
+876,49600309,Colegiales,Capital Federal,120000,Alquiler,PH,3.0,145.0,1
+877,49601002,Villa Crespo,Capital Federal,42500,Alquiler,Apartamento,1.0,49.0,0
+878,49601184,Palermo,Capital Federal,55000,Alquiler,Apartamento,0.0,35.0,1
+879,49601222,Belgrano,Capital Federal,98000,Alquiler,Apartamento,3.0,90.0,1
+880,49601232,San Fernando,GBA Norte,35000,Alquiler,Apartamento,0.0,30.0,1
+881,49601633,Núñez,Capital Federal,57000,Alquiler,Apartamento,1.0,56.0,1
+882,49602124,Centro / Microcentro,Capital Federal,4000000,Venta,Fondo de Comercio,,300.0,1
+883,49602177,Parque Chacabuco,Capital Federal,48000,Alquiler,Apartamento,1.0,1.0,0
+884,49602847,Rosario,Santa Fe,30000,Alquiler,Apartamento,0.0,,0
+885,49602872,Flores,Capital Federal,35000,Alquiler,Apartamento,0.0,29.0,1
+886,49602936,Caballito,Capital Federal,1500,Alquiler,Apartamento,3.0,175.0,1
+887,49602965,Flores,Capital Federal,90000,Alquiler,PH,2.0,102.0,0
+888,49603219,Floresta,Capital Federal,8500,Alquiler,Apartamento,1.0,70.0,1
+889,49603352,Caballito,Capital Federal,65000,Alquiler,Apartamento,2.0,70.0,0
+890,49603412,Rosario,Santa Fe,26000,Alquiler,Apartamento,0.0,25.0,1
+891,49603537,Parque Avellaneda,Capital Federal,95000,Alquiler,Casa,3.0,180.0,0
+892,49603646,Palermo,Capital Federal,60000,Alquiler,Apartamento,1.0,49.0,0
+893,49603674,San Isidro,GBA Norte,45000,Alquiler,Apartamento,1.0,32.0,0
+894,49603943,Villa Pueyrredón,Capital Federal,37000,Alquiler,PH,0.0,33.0,1
+895,49604091,Lanús,GBA Sur,33500,Alquiler,Apartamento,2.0,,0
+896,49604118,Palermo,Capital Federal,49000,Alquiler,Apartamento,0.0,42.0,0
+897,49604368,Rosario,Santa Fe,30000,Alquiler,Apartamento,1.0,40.0,1
+898,49604448,Villa Urquiza,Capital Federal,72000,Alquiler,Apartamento,1.0,70.0,0
+899,49604505,Núñez,Capital Federal,70000,Alquiler,Apartamento,1.0,55.0,0
+900,49604513,San Isidro,GBA Norte,45000,Alquiler,Apartamento,1.0,55.0,0
+901,49604560,Caballito,Capital Federal,45000,Alquiler,Apartamento,1.0,36.0,0
+902,49604574,Saavedra,Capital Federal,40000,Alquiler,Apartamento,1.0,41.0,0
+903,49604618,Villa Urquiza,Capital Federal,41000,Alquiler,Apartamento,0.0,32.0,0
+904,49604760,Belgrano,Capital Federal,1350,Alquiler,Apartamento,3.0,112.0,1
+905,49604804,Villa Urquiza,Capital Federal,50000,Alquiler,PH,1.0,48.0,0
+906,49604841,Núñez,Capital Federal,65000,Alquiler,Apartamento,2.0,60.0,1
+907,49604909,Belgrano,Capital Federal,105000,Alquiler,Apartamento,2.0,145.0,1
+908,49605035,Villa Crespo,Capital Federal,45000,Alquiler,Apartamento,0.0,35.0,1
+909,49605213,San Telmo,Capital Federal,45000,Alquiler,Apartamento,1.0,34.0,1
+910,49605240,Belgrano,Capital Federal,65000,Alquiler,Apartamento,1.0,40.0,0
+911,49605632,Balvanera,Capital Federal,36000,Alquiler,Apartamento,1.0,32.0,0
+912,49605805,Palermo,Capital Federal,63000,Alquiler,Apartamento,1.0,48.0,1
+913,49606009,San Isidro,GBA Norte,38000,Alquiler,Apartamento,1.0,34.0,0
+914,49606207,Palermo,Capital Federal,80000,Alquiler,Apartamento,1.0,67.0,1
+915,49606216,Barrio Norte,Capital Federal,48000,Alquiler,Apartamento,0.0,30.0,0
+916,49606439,Villa Crespo,Capital Federal,42000,Alquiler,Apartamento,0.0,34.0,0
+917,49606554,Rosario,Santa Fe,30000,Alquiler,Apartamento,0.0,30.0,0
+918,49606586,Almagro,Capital Federal,38000,Alquiler,Apartamento,0.0,34.0,0
+919,49606755,Floresta,Capital Federal,25000,Alquiler,Apartamento,0.0,28.0,1
+920,49606866,Belgrano,Capital Federal,55000,Alquiler,Apartamento,1.0,45.0,1
+921,49606891,Rosario,Santa Fe,25000,Alquiler,Apartamento,1.0,24.0,0
+922,49607186,Belgrano,Capital Federal,52000,Alquiler,Apartamento,1.0,50.0,0
+923,49607455,Belgrano,Capital Federal,75000,Alquiler,Apartamento,2.0,63.0,1
+924,49607477,Villa Crespo,Capital Federal,65000,Alquiler,PH,1.0,56.0,0
+925,49607521,Rosario,Santa Fe,18000,Alquiler,Apartamento,1.0,35.0,0
+926,49607978,Avellaneda,GBA Sur,28000,Alquiler,PH,1.0,38.0,0
+927,49608005,Palermo,Capital Federal,65000,Alquiler,Apartamento,1.0,42.0,0
+928,49608452,Balvanera,Capital Federal,65000,Alquiler,Apartamento,2.0,56.0,1
+929,49608550,Congreso,Capital Federal,25000,Alquiler,Apartamento,0.0,23.0,0
+930,49608640,Palermo,Capital Federal,45000,Alquiler,Apartamento,,21.0,0
+931,49608731,Caballito,Capital Federal,40000,Alquiler,Apartamento,1.0,35.0,1
+932,49608800,Monserrat,Capital Federal,40000,Alquiler,Apartamento,1.0,52.0,0
+933,49609202,Rosario,Santa Fe,17000,Alquiler,Apartamento,0.0,30.0,0
+934,49610058,Parque Centenario,Capital Federal,40000,Alquiler,Apartamento,1.0,35.0,1
+935,49610104,Belgrano,Capital Federal,42000,Alquiler,Apartamento,1.0,48.0,0
+936,49610214,Boedo,Capital Federal,52000,Alquiler,Apartamento,2.0,50.0,0
+937,49610308,Villa Urquiza,Capital Federal,58000,Alquiler,Apartamento,1.0,50.0,0
+938,49610335,Villa Urquiza,Capital Federal,90000,Alquiler,PH,1.0,65.0,0
+939,49610339,Caballito,Capital Federal,87000,Alquiler,Apartamento,2.0,,0
+940,49610542,Villa General Mitre,Capital Federal,44000,Alquiler,Apartamento,1.0,41.0,0
+941,49610551,Palermo,Capital Federal,40000,Alquiler,Apartamento,1.0,41.0,0
+942,49610801,Belgrano,Capital Federal,35000,Alquiler,Apartamento,0.0,20.0,1
+943,49610942,Palermo,Capital Federal,60000,Alquiler,Apartamento,1.0,56.0,1
+944,49610985,Belgrano,Capital Federal,45000,Alquiler,Apartamento,1.0,33.0,0
+945,49611206,Lomas de Zamora,GBA Sur,49000,Alquiler,Casa,2.0,160.0,1
+946,49611408,Núñez,Capital Federal,145000,Venta,Casa,2.0,130.0,1
+947,49611432,Villa Crespo,Capital Federal,72000,Alquiler,Apartamento,1.0,50.0,0
+948,49611518,Recoleta,Capital Federal,50000,Alquiler,Apartamento,1.0,42.0,0
+949,49611582,Villa Devoto,Capital Federal,78000,Alquiler,PH,2.0,100.0,0
+950,49611887,Almagro,Capital Federal,62900,Alquiler,Apartamento,2.0,70.0,1
+951,49612114,San Nicolás,Capital Federal,38000,Alquiler,Apartamento,2.0,128.0,0
+952,49612228,Recoleta,Capital Federal,48000,Alquiler,Apartamento,1.0,43.0,0
+953,49612296,Rosario,Santa Fe,25000,Alquiler,Apartamento,0.0,20.0,0
+954,49612308,Villa Urquiza,Capital Federal,60000,Alquiler,Apartamento,0.0,50.0,0
+955,49612318,Vicente López,GBA Norte,85000,Alquiler,PH,3.0,85.0,0
+956,49612468,Palermo,Capital Federal,105000,Alquiler,Apartamento,2.0,70.0,0
+957,49613572,Palermo,Capital Federal,38000,Alquiler,Apartamento,1.0,35.0,0
+958,49613593,Belgrano,Capital Federal,85000,Alquiler,Apartamento,1.0,40.0,0
+959,49613669,Chacarita,Capital Federal,57000,Alquiler,Apartamento,0.0,40.0,0
+960,49613708,Villa Urquiza,Capital Federal,65000,Alquiler,PH,2.0,60.0,0
+961,49613724,Palermo,Capital Federal,35000,Alquiler,Apartamento,0.0,30.0,0
+962,49613737,Belgrano,Capital Federal,40000,Alquiler,Apartamento,2.0,61.0,1
+963,49614201,Recoleta,Capital Federal,62000,Alquiler,PH,1.0,52.0,0
+964,49614420,Vicente López,GBA Norte,72000,Alquiler,PH,2.0,60.0,0
+965,49614710,La Matanza,GBA Oeste,50000,Alquiler,PH,2.0,70.0,1
+966,49615058,Núñez,Capital Federal,55000,Alquiler,Apartamento,1.0,55.0,0
+967,49615898,Lomas de Zamora,GBA Sur,28000,Alquiler,Apartamento,1.0,45.0,0
+968,49616019,Vicente López,GBA Norte,100000,Alquiler,PH,2.0,139.0,0
+969,49616085,Vicente López,GBA Norte,70000,Alquiler,PH,2.0,62.0,1
+970,49616210,Morón,GBA Oeste,50000,Alquiler,PH,2.0,62.0,1
+971,49616326,Almagro,Capital Federal,27000,Alquiler,Apartamento,1.0,23.0,1
+972,49616409,San Isidro,GBA Norte,38000,Alquiler,Apartamento,1.0,35.0,0
+973,49616428,Congreso,Capital Federal,42000,Alquiler,Apartamento,1.0,37.0,1
+974,49616698,Villa Crespo,Capital Federal,57500,Alquiler,Apartamento,1.0,50.0,0
+975,49616843,Congreso,Capital Federal,32000,Alquiler,Apartamento,,34.0,1
+976,49616957,Agronomía,Capital Federal,135000,Venta,Casa,3.0,150.0,0
+977,49617095,Vicente López,GBA Norte,55000,Alquiler,PH,2.0,,0
+978,49617121,Parque Chas,Capital Federal,60000,Alquiler,Apartamento,1.0,45.0,1
+979,49617186,Saavedra,Capital Federal,48000,Alquiler,Apartamento,1.0,32.0,0
+980,49617223,Belgrano,Capital Federal,70000,Alquiler,Apartamento,2.0,85.0,1
+981,49617294,Palermo,Capital Federal,58000,Alquiler,Apartamento,0.0,36.0,1
+982,49617360,Belgrano,Capital Federal,52000,Alquiler,Apartamento,0.0,41.0,0
+983,49617434,Belgrano,Capital Federal,85000,Alquiler,Apartamento,2.0,,1
+984,49617488,Belgrano,Capital Federal,70000,Alquiler,Apartamento,1.0,51.0,1
+985,49617548,Belgrano,Capital Federal,35000,Alquiler,Apartamento,0.0,25.0,0
+986,49618087,Villa Luro,Capital Federal,85000,Alquiler,PH,2.0,,0
+987,49618150,Rosario,Santa Fe,39000,Alquiler,Apartamento,1.0,,1
+988,49618171,Vicente López,GBA Norte,70000,Alquiler,Apartamento,1.0,59.0,0
+989,49618232,Palermo,Capital Federal,60000,Alquiler,Apartamento,1.0,32.0,1
+990,49618265,Vicente López,GBA Norte,150000,Alquiler,PH,3.0,160.0,1
+991,49618271,Rosario,Santa Fe,45000,Alquiler,Apartamento,2.0,55.0,0
+992,49618526,Boedo,Capital Federal,40000,Alquiler,Apartamento,0.0,33.0,0
+993,49618591,Palermo,Capital Federal,40000,Alquiler,Apartamento,1.0,44.0,0
+994,49619011,Caballito,Capital Federal,40000,Alquiler,PH,2.0,60.0,0
+995,49619175,Rosario,Santa Fe,33000,Alquiler,Apartamento,1.0,35.0,0
+996,49619205,Villa Luro,Capital Federal,38000,Alquiler,PH,1.0,65.0,0
+997,49619380,Belgrano,Capital Federal,130000,Alquiler,Apartamento,3.0,94.0,1
+998,49619528,Rosario,Santa Fe,65000,Alquiler,Casa,3.0,100.0,0
+999,49619584,Palermo,Capital Federal,1550,Alquiler,Casa,2.0,174.0,1
+1000,49619901,Rosario,Santa Fe,65000,Alquiler,Casa,3.0,,1
+1001,49620188,Palermo,Capital Federal,350,Alquiler,Apartamento,0.0,38.0,1
+1002,49620325,San Cristobal,Capital Federal,32000,Alquiler,Apartamento,1.0,33.0,0
+1003,49620333,Tigre,GBA Norte,66000,Alquiler,PH,1.0,140.0,1
+1004,49620356,Núñez,Capital Federal,45000,Alquiler,Apartamento,0.0,35.0,0
+1005,49621223,Palermo,Capital Federal,140000,Alquiler,Apartamento,2.0,62.0,1
+1006,49621319,Belgrano,Capital Federal,45000,Alquiler,Apartamento,1.0,37.0,0
+1007,49621496,Palermo,Capital Federal,50000,Alquiler,Apartamento,,54.0,0
+1008,49621513,Rosario,Santa Fe,20000,Alquiler,Apartamento,1.0,30.0,0
+1009,49621817,Caballito,Capital Federal,110000,Alquiler,PH,1.0,117.0,0
+1010,49622763,Palermo,Capital Federal,38000,Alquiler,Apartamento,1.0,33.0,0
+1011,49622804,Núñez,Capital Federal,70000,Alquiler,Apartamento,1.0,47.0,0
+1012,49622861,San Isidro,GBA Norte,65000,Alquiler,Apartamento,1.0,48.0,0
+1013,49623117,Villa Urquiza,Capital Federal,66000,Alquiler,Apartamento,0.0,50.0,0
+1014,49623491,La Matanza,GBA Oeste,50000,Alquiler,PH,2.0,55.0,1
+1015,49623495,Parque Chas,Capital Federal,85000,Alquiler,Apartamento,2.0,77.0,0
+1016,49623506,Centro / Microcentro,Capital Federal,30000,Alquiler,Apartamento,1.0,19.0,0
+1017,49623732,Villa Devoto,Capital Federal,30000,Alquiler,Apartamento,0.0,20.0,0
+1018,49623811,Monserrat,Capital Federal,85000,Alquiler,Apartamento,3.0,136.0,0
+1019,49625123,Vicente López,GBA Norte,40000,Alquiler,Apartamento,1.0,,0
+1020,49625206,Palermo,Capital Federal,42000,Alquiler,Apartamento,0.0,38.0,0
+1021,49625303,Palermo,Capital Federal,58000,Alquiler,Apartamento,1.0,46.0,1
+1022,49625940,Caballito,Capital Federal,89900,Alquiler,Apartamento,2.0,100.0,0
+1023,49625973,Palermo,Capital Federal,68000,Alquiler,Apartamento,1.0,60.0,0
+1024,49626197,Barrio Norte,Capital Federal,55000,Alquiler,Apartamento,1.0,40.0,1
+1025,49626237,Colegiales,Capital Federal,85000,Alquiler,PH,2.0,,1
+1026,49626247,Villa Luro,Capital Federal,120000,Alquiler,PH,2.0,140.0,0
+1027,49626402,San Cristobal,Capital Federal,40000,Alquiler,Apartamento,1.0,45.0,0
+1028,49626414,Villa Crespo,Capital Federal,35000,Alquiler,Apartamento,1.0,39.0,0
+1029,49627171,Núñez,Capital Federal,75000,Alquiler,Apartamento,1.0,46.0,1
+1030,49627513,Flores,Capital Federal,50000,Alquiler,Apartamento,1.0,60.0,0
+1031,49627561,Tribunales,Capital Federal,69000,Venta,Apartamento,,35.0,1
+1032,49627589,Palermo,Capital Federal,40000,Alquiler,Apartamento,1.0,35.0,0
+1033,49627636,Mar del Plata,Buenos Aires Costa Atlántica,50000,Alquiler,Apartamento,2.0,,1
+1034,49627684,Versalles,Capital Federal,59000,Alquiler,Casa,2.0,150.0,0
+1035,49627867,Caballito,Capital Federal,50000,Alquiler,Apartamento,1.0,47.0,0
+1036,49629226,Palermo,Capital Federal,90000,Alquiler,Apartamento,1.0,73.0,0
+1037,49629332,Villa Urquiza,Capital Federal,45000,Alquiler,Apartamento,1.0,40.0,0
+1038,49629338,Recoleta,Capital Federal,75000,Alquiler,Apartamento,2.0,60.0,1
+1039,49629391,Villa Pueyrredón,Capital Federal,52000,Alquiler,Apartamento,1.0,47.0,1
+1040,49629463,Saavedra,Capital Federal,108000,Venta,PH,2.0,65.0,1
+1041,49629560,Parque Patricios,Capital Federal,50000,Alquiler,Apartamento,2.0,53.0,1
+1042,49629652,Boedo,Capital Federal,42000,Venta,Apartamento,1.0,50.0,0
+1043,49629886,Palermo,Capital Federal,115000,Alquiler,Apartamento,1.0,77.0,1
+1044,49630090,Palermo,Capital Federal,60000,Alquiler,Apartamento,1.0,46.0,0
+1045,49630096,Colegiales,Capital Federal,50000,Alquiler,Apartamento,0.0,39.0,1
+1046,49630157,Belgrano,Capital Federal,88500,Alquiler,Apartamento,2.0,75.0,0
+1047,49630342,Núñez,Capital Federal,68000,Alquiler,Apartamento,1.0,58.0,0
+1048,49630528,Lanús,GBA Sur,68000,Alquiler,PH,5.0,120.0,1
+1049,49630539,Almagro,Capital Federal,40000,Alquiler,Apartamento,1.0,34.0,1
+1050,49630589,General San Martín,GBA Norte,36000,Alquiler,Apartamento,1.0,70.0,1
+1051,49630777,Villa Devoto,Capital Federal,72000,Alquiler,Apartamento,2.0,70.0,0
+1052,49630837,Recoleta,Capital Federal,158000,Alquiler,Apartamento,3.0,205.0,1
+1053,49631042,Caballito,Capital Federal,100000,Alquiler,PH,2.0,92.0,0
+1054,49631352,Villa Urquiza,Capital Federal,45000,Alquiler,Apartamento,1.0,35.0,0
+1055,49631416,San Cristobal,Capital Federal,40000,Alquiler,Apartamento,1.0,55.0,1
+1056,49631887,Villa del Parque,Capital Federal,48000,Alquiler,PH,1.0,50.0,0
+1057,49631927,San Cristobal,Capital Federal,45000,Alquiler,PH,1.0,48.0,0
+1058,49632353,San Telmo,Capital Federal,45000,Alquiler,Apartamento,1.0,40.0,0
+1059,49632494,Balvanera,Capital Federal,30000,Alquiler,Apartamento,1.0,35.0,0
+1060,49633061,Caballito,Capital Federal,70000,Alquiler,Apartamento,1.0,50.0,1
+1061,49633104,Villa del Parque,Capital Federal,48000,Alquiler,Apartamento,2.0,45.0,0
+1062,49633207,Palermo,Capital Federal,55000,Alquiler,Apartamento,1.0,51.0,1
+1063,49633287,Rosario,Santa Fe,38000,Alquiler,Casa,2.0,184.0,0
+1064,49633390,Vicente López,GBA Norte,80000,Alquiler,PH,2.0,73.0,1
+1065,49633428,Vicente López,GBA Norte,55000,Alquiler,Casa,2.0,100.0,0
+1066,49633441,Colegiales,Capital Federal,43000,Alquiler,Apartamento,1.0,35.0,0
+1067,49633801,Rosario,Santa Fe,48000,Alquiler,Apartamento,2.0,55.0,0
+1068,49633838,Rosario,Santa Fe,35000,Alquiler,Apartamento,2.0,45.0,1
+1069,49634080,General San Martín,GBA Norte,50000,Alquiler,PH,2.0,90.0,1
+1070,49634082,Palermo,Capital Federal,60000,Alquiler,Apartamento,1.0,48.0,0
+1071,49634308,Villa Crespo,Capital Federal,60000,Alquiler,Apartamento,1.0,48.0,0
+1072,49634534,Barracas,Capital Federal,60000,Alquiler,Apartamento,2.0,65.0,0
+1073,49634549,Palermo,Capital Federal,78500,Alquiler,Apartamento,1.0,58.0,0
+1074,49634597,Tres de Febrero,GBA Oeste,55000,Alquiler,PH,5.0,150.0,0
+1075,49634608,Villa Urquiza,Capital Federal,45000,Alquiler,Apartamento,1.0,45.0,0
+1076,49634749,Villa Luro,Capital Federal,45000,Alquiler,Apartamento,2.0,,0
+1077,49635030,Almagro,Capital Federal,35000,Alquiler,Apartamento,1.0,36.0,1
+1078,49635052,Caballito,Capital Federal,30000,Alquiler,Apartamento,1.0,36.0,1
+1079,49635170,Lanús,GBA Sur,30000,Alquiler,PH,1.0,45.0,1
+1080,49635377,Belgrano,Capital Federal,49000,Alquiler,Apartamento,1.0,35.0,1
+1081,49635446,Vicente López,GBA Norte,50000,Alquiler,Apartamento,1.0,40.0,0
+1082,49635492,Monte Castro,Capital Federal,45000,Alquiler,PH,1.0,40.0,1
+1083,49635545,Rosario,Santa Fe,42500,Alquiler,Apartamento,2.0,,1
+1084,49635578,Barrio Norte,Capital Federal,30000,Alquiler,Apartamento,0.0,30.0,0
+1085,49635623,Once,Capital Federal,40000,Alquiler,Apartamento,1.0,45.0,0
+1086,49635655,Caballito,Capital Federal,45000,Alquiler,Apartamento,1.0,35.0,1
+1087,49635722,Recoleta,Capital Federal,59000,Alquiler,Apartamento,2.0,70.0,0
+1088,49635815,Floresta,Capital Federal,48000,Alquiler,PH,1.0,48.0,1
+1089,49635977,Barrio Norte,Capital Federal,49000,Alquiler,Apartamento,1.0,37.0,0
+1090,49636616,Almagro,Capital Federal,45000,Alquiler,Apartamento,1.0,35.0,1
+1091,49636620,Avellaneda,GBA Sur,60000,Alquiler,PH,3.0,,0
+1092,49636667,Caballito,Capital Federal,67000,Alquiler,Apartamento,1.0,63.0,0
+1093,49636716,Villa Urquiza,Capital Federal,65000,Alquiler,Apartamento,1.0,42.0,0
+1094,49636721,Córdoba,Córdoba,32000,Alquiler,Apartamento,0.0,,0
+1095,49636727,Versalles,Capital Federal,125000,Alquiler,Casa,3.0,160.0,0
+1096,49637286,Núñez,Capital Federal,140000,Alquiler,Apartamento,2.0,98.0,0
+1097,49637438,Barrio Norte,Capital Federal,35000,Alquiler,Apartamento,0.0,30.0,0
+1098,49637458,Rosario,Santa Fe,24000,Alquiler,Apartamento,0.0,28.0,0
+1099,49637472,Villa Urquiza,Capital Federal,87000,Alquiler,PH,3.0,57.0,0
+1100,49637551,San Telmo,Capital Federal,27000,Alquiler,Apartamento,,30.0,0
+1101,49637678,Rosario,Santa Fe,24000,Alquiler,Apartamento,1.0,35.0,0
+1102,49637961,Palermo,Capital Federal,87000,Alquiler,Apartamento,2.0,70.0,1
+1103,49637989,Rosario,Santa Fe,24000,Alquiler,Apartamento,0.0,,0
+1104,49638011,Rosario,Santa Fe,30000,Alquiler,Apartamento,1.0,30.0,1
+1105,49638243,Palermo,Capital Federal,75000,Alquiler,Apartamento,1.0,54.0,0
+1106,49638861,Núñez,Capital Federal,50000,Alquiler,Apartamento,1.0,30.0,0
+1107,49639071,Rosario,Santa Fe,30000,Alquiler,Apartamento,1.0,36.0,0
+1108,49639130,Belgrano,Capital Federal,48000,Alquiler,Apartamento,1.0,43.0,1
+1109,49639156,Congreso,Capital Federal,32000,Alquiler,Apartamento,1.0,26.0,0
+1110,49639190,Villa del Parque,Capital Federal,60000,Alquiler,PH,1.0,,0
+1111,49639279,Villa Crespo,Capital Federal,40000,Alquiler,Apartamento,1.0,40.0,0
+1112,49639347,Balvanera,Capital Federal,38000,Alquiler,Apartamento,1.0,,0
+1113,49639378,Boedo,Capital Federal,55000,Alquiler,Apartamento,2.0,56.0,0
+1114,49639393,Recoleta,Capital Federal,55000,Alquiler,Apartamento,2.0,58.0,0
+1115,49639404,Villa Urquiza,Capital Federal,65000,Alquiler,Apartamento,1.0,55.0,0
+1116,49639411,Villa Urquiza,Capital Federal,65000,Alquiler,PH,1.0,55.0,0
+1117,49639954,Parque Patricios,Capital Federal,75000,Alquiler,PH,4.0,75.0,0
+1118,49640070,Belgrano,Capital Federal,40000,Alquiler,Apartamento,0.0,26.0,0
+1119,49640466,Palermo,Capital Federal,65000,Alquiler,Apartamento,1.0,38.0,0
+1120,49640504,Barracas,Capital Federal,25000,Alquiler,Apartamento,,24.0,0
+1121,49641359,Vicente López,GBA Norte,35000,Alquiler,PH,0.0,35.0,1
+1122,49641395,San Isidro,GBA Norte,60000,Alquiler,Apartamento,2.0,65.0,1
+1123,49641438,San Isidro,GBA Norte,80000,Alquiler,Casa,2.0,200.0,1
+1124,49642112,San Telmo,Capital Federal,65000,Alquiler,Apartamento,3.0,75.0,1
+1125,49642391,Caballito,Capital Federal,68000,Alquiler,Apartamento,2.0,65.0,1
+1126,49642392,Parque Chacabuco,Capital Federal,120000,Alquiler,Casa,4.0,195.0,0
+1127,49642465,Belgrano,Capital Federal,47000,Alquiler,Apartamento,1.0,40.0,0
+1128,49642584,Belgrano,Capital Federal,50000,Alquiler,Apartamento,1.0,56.0,0
+1129,49642605,Palermo,Capital Federal,44000,Alquiler,Apartamento,1.0,66.0,0
+1130,49642619,San Cristobal,Capital Federal,48000,Venta,PH,1.0,51.0,1
+1131,49642768,Caballito,Capital Federal,18000,Alquiler,PH,,100.0,1
+1132,49642794,Parque Avellaneda,Capital Federal,38000,Alquiler,Apartamento,0.0,35.0,1
+1133,49642834,Villa Urquiza,Capital Federal,68000,Alquiler,Apartamento,1.0,51.0,0
+1134,49642849,Lomas de Zamora,GBA Sur,40000,Alquiler,Apartamento,1.0,36.0,0
+1135,49642863,Palermo,Capital Federal,80000,Alquiler,Apartamento,2.0,68.0,1
+1136,49642927,Caballito,Capital Federal,40000,Alquiler,Apartamento,1.0,40.0,0
+1137,49642990,Villa General Mitre,Capital Federal,32500,Alquiler,Apartamento,,44.0,0
+1138,49643007,Rosario,Santa Fe,43000,Alquiler,Apartamento,1.0,44.0,0
+1139,49643011,Recoleta,Capital Federal,58000,Alquiler,Apartamento,1.0,47.0,1
+1140,49643118,Palermo,Capital Federal,80000,Alquiler,Apartamento,3.0,83.0,0
+1141,49643206,Villa Santa Rita,Capital Federal,92000,Alquiler,PH,2.0,84.0,1
+1142,49643211,Barrio Norte,Capital Federal,40000,Alquiler,Apartamento,1.0,50.0,1
+1143,49643233,Villa Urquiza,Capital Federal,52000,Alquiler,Apartamento,1.0,44.0,0
+1144,49643693,Vicente López,GBA Norte,60000,Alquiler,PH,2.0,50.0,0
+1145,49643975,Villa Crespo,Capital Federal,39000,Alquiler,Apartamento,1.0,45.0,0
+1146,49644232,San Telmo,Capital Federal,50000,Alquiler,Apartamento,2.0,44.0,1
+1147,49644521,Palermo,Capital Federal,45000,Alquiler,Apartamento,1.0,32.0,0
+1148,49644797,Puerto Madero,Capital Federal,72000,Alquiler,Apartamento,1.0,45.0,1
+1149,49644883,Vicente López,GBA Norte,85000,Alquiler,Apartamento,2.0,57.0,0
+1150,49644992,Almagro,Capital Federal,52000,Alquiler,Apartamento,,33.0,0
+1151,49645181,Flores,Capital Federal,105000,Alquiler,Apartamento,3.0,107.0,0
+1152,49645188,Boedo,Capital Federal,19800,Alquiler,PH,1.0,26.0,0
+1153,49645386,San Isidro,GBA Norte,110000,Alquiler,PH,3.0,90.0,0
+1154,49645505,Flores,Capital Federal,115000,Alquiler,Casa,3.0,120.0,0
+1155,49645653,Barrio Norte,Capital Federal,50000,Alquiler,Apartamento,1.0,63.0,0
+1156,49645752,Belgrano,Capital Federal,45000,Alquiler,Apartamento,1.0,35.0,0
+1157,49645821,Almagro,Capital Federal,50000,Alquiler,Apartamento,2.0,52.0,0
+1158,49645886,Palermo,Capital Federal,100000,Alquiler,Apartamento,2.0,85.0,1
+1159,49645897,Caballito,Capital Federal,65000,Alquiler,PH,2.0,100.0,0
+1160,49645943,Balvanera,Capital Federal,40000,Alquiler,Apartamento,1.0,42.0,0
+1161,49645979,Recoleta,Capital Federal,110000,Alquiler,Apartamento,2.0,133.0,0
+1162,49646261,San Fernando,GBA Norte,140000,Alquiler,Casa,2.0,275.0,1
+1163,49646419,Almagro,Capital Federal,68000,Alquiler,Apartamento,2.0,75.0,0
+1164,49646420,Villa Crespo,Capital Federal,33000,Alquiler,Apartamento,0.0,25.0,0
+1165,49646442,Almagro,Capital Federal,45000,Alquiler,Apartamento,1.0,39.0,0
+1166,49646487,Villa Crespo,Capital Federal,35000,Alquiler,Apartamento,0.0,29.0,0
+1167,49646493,Almagro,Capital Federal,40000,Alquiler,Apartamento,1.0,41.0,0
+1168,49646586,San Isidro,GBA Norte,92000,Alquiler,Casa,3.0,115.0,0
+1169,49646692,San Fernando,GBA Norte,39000,Alquiler,Apartamento,1.0,48.0,0
+1170,49646895,Caballito,Capital Federal,32000,Alquiler,Apartamento,1.0,23.0,1
+1171,49646910,Núñez,Capital Federal,46000,Alquiler,Apartamento,1.0,42.0,0
+1172,49646963,Villa del Parque,Capital Federal,115000,Alquiler,PH,3.0,161.0,0
+1173,49647151,San Cristobal,Capital Federal,33000,Alquiler,Apartamento,1.0,30.0,0
+1174,49647765,Caballito,Capital Federal,45000,Alquiler,Apartamento,1.0,45.0,0
+1175,49647824,Barrio Norte,Capital Federal,30000,Alquiler,Apartamento,0.0,26.0,0
+1176,49647831,Belgrano,Capital Federal,90000,Alquiler,Apartamento,3.0,73.0,1
+1177,49647985,Palermo,Capital Federal,70000,Alquiler,Apartamento,0.0,50.0,1
+1178,49648386,Villa Urquiza,Capital Federal,69000,Alquiler,Apartamento,2.0,60.0,0
+1179,49648452,Belgrano,Capital Federal,118000,Alquiler,Apartamento,2.0,87.0,1
+1180,49648458,Villa Urquiza,Capital Federal,80000,Alquiler,Apartamento,2.0,72.0,1
+1181,49648493,Barracas,Capital Federal,38000,Alquiler,Apartamento,1.0,40.0,0
+1182,49649044,La Matanza,GBA Oeste,22000,Alquiler,Apartamento,1.0,45.0,0
+1183,49649054,Saavedra,Capital Federal,28000,Alquiler,PH,0.0,26.0,0
+1184,49649139,Belgrano,Capital Federal,50000,Alquiler,Apartamento,1.0,38.0,1
+1185,49649179,San Isidro,GBA Norte,62000,Alquiler,PH,2.0,105.0,1
+1186,49649392,San Isidro,GBA Norte,160000,Alquiler,Casa,3.0,,0
+1187,49649490,Palermo,Capital Federal,45000,Alquiler,Apartamento,1.0,40.0,0
+1188,49649543,Abasto,Capital Federal,40000,Alquiler,Apartamento,1.0,30.0,0
+1189,49649551,Palermo,Capital Federal,40000,Alquiler,PH,1.0,45.0,0
+1190,49649656,Belgrano,Capital Federal,70000,Alquiler,Apartamento,1.0,55.0,0
+1191,49649816,Núñez,Capital Federal,50000,Alquiler,Apartamento,1.0,50.0,0
+1192,49649827,Belgrano,Capital Federal,180000,Alquiler,PH,4.0,210.0,1
+1193,49649919,Villa del Parque,Capital Federal,220000,Venta,Casa,3.0,220.0,1
+1194,49649929,San Cristobal,Capital Federal,34000,Alquiler,Apartamento,,30.0,0
+1195,49649961,Recoleta,Capital Federal,43000,Alquiler,Apartamento,,38.0,0
+1196,49650171,Palermo,Capital Federal,300000,Alquiler,Apartamento,3.0,80.0,1
+1197,49650316,Rosario,Santa Fe,38000,Alquiler,Apartamento,2.0,48.0,1
+1198,49650373,Recoleta,Capital Federal,32000,Alquiler,Apartamento,0.0,27.0,0
+1199,49650419,Caballito,Capital Federal,80000,Alquiler,Apartamento,2.0,59.0,0
+1200,49650552,Vicente López,GBA Norte,55000,Alquiler,PH,2.0,,0
+1201,49650676,Rosario,Santa Fe,45000,Alquiler,Apartamento,2.0,55.0,1
+1202,49650757,Villa del Parque,Capital Federal,35000,Alquiler,Apartamento,1.0,45.0,0
+1203,49651397,Palermo,Capital Federal,45000,Alquiler,Apartamento,1.0,38.0,0
+1204,49651446,Chacarita,Capital Federal,43000,Alquiler,Apartamento,1.0,36.0,1
+1205,49651456,Barrio Norte,Capital Federal,60000,Alquiler,Apartamento,2.0,53.0,0
+1206,49651582,Palermo,Capital Federal,50000,Alquiler,Apartamento,1.0,44.0,0
+1207,49651617,Almagro,Capital Federal,45000,Alquiler,Apartamento,1.0,58.0,1
+1208,49651712,Caballito,Capital Federal,42000,Alquiler,Apartamento,1.0,45.0,1
+1209,49651884,Almagro,Capital Federal,40000,Alquiler,Apartamento,1.0,40.0,0
+1210,49651913,Caballito,Capital Federal,45000,Alquiler,Apartamento,1.0,35.0,0
+1211,49651923,Almagro,Capital Federal,60000,Alquiler,Apartamento,2.0,70.0,1
+1212,49651950,La Plata,GBA Sur,45000,Alquiler,Apartamento,2.0,,0
+1213,49652234,Flores,Capital Federal,48000,Alquiler,Apartamento,2.0,47.0,0
+1214,49653701,Belgrano,Capital Federal,87000,Alquiler,Apartamento,1.0,46.0,1
+1215,49653718,Boedo,Capital Federal,23800,Alquiler,PH,1.0,26.0,0
+1216,49653764,Palermo,Capital Federal,34500,Alquiler,Apartamento,,34.0,1
+1217,49653855,Belgrano,Capital Federal,60000,Alquiler,Apartamento,1.0,81.0,1
+1218,49653858,Palermo,Capital Federal,29000,Alquiler,Apartamento,,24.0,1
+1219,49653981,Centro / Microcentro,Capital Federal,18000,Alquiler,Apartamento,0.0,27.0,0
+1220,49653990,Palermo,Capital Federal,90000,Alquiler,Apartamento,1.0,60.0,0
+1221,49654008,Recoleta,Capital Federal,50000,Alquiler,Apartamento,1.0,41.0,0
+1222,49654098,Chacarita,Capital Federal,40000,Alquiler,Apartamento,1.0,35.0,1
+1223,49654310,San Telmo,Capital Federal,55000,Alquiler,Apartamento,2.0,64.0,1
+1224,49654379,Rosario,Santa Fe,25000,Alquiler,Apartamento,0.0,25.0,0
+1225,49654488,Almagro,Capital Federal,43000,Alquiler temporal,Apartamento,0.0,42.0,0
+1226,49654541,Palermo,Capital Federal,90000,Alquiler,Apartamento,2.0,80.0,0
+1227,49655007,Rosario,Santa Fe,55000,Alquiler,Apartamento,3.0,100.0,1
+1228,49655040,Palermo,Capital Federal,45000,Alquiler,Apartamento,0.0,35.0,0
+1229,49655158,San Cristobal,Capital Federal,22000,Alquiler,Apartamento,0.0,22.0,0
+1230,49655251,San Isidro,GBA Norte,150000,Alquiler,PH,3.0,156.0,0
+1231,49655532,Villa Pueyrredón,Capital Federal,43000,Alquiler,Apartamento,1.0,42.0,1
+1232,49655704,Recoleta,Capital Federal,280000,Venta,Apartamento,3.0,,1
+1233,49655844,Parque Chacabuco,Capital Federal,75000,Alquiler,Apartamento,2.0,59.0,0
+1234,49655882,Villa Ortuzar,Capital Federal,40000,Alquiler,Apartamento,0.0,34.0,0
+1235,49656148,Colegiales,Capital Federal,109000,Alquiler,Apartamento,3.0,71.0,1
+1236,49656205,Parque Chacabuco,Capital Federal,62000,Alquiler,PH,2.0,100.0,0
+1237,49656333,Belgrano,Capital Federal,55000,Alquiler,Apartamento,1.0,50.0,0
+1238,49656385,Palermo,Capital Federal,96000,Alquiler,Apartamento,2.0,90.0,1
+1239,49656475,Vicente López,GBA Norte,75000,Alquiler,Apartamento,2.0,73.0,0
+1240,49656638,Caballito,Capital Federal,42000,Alquiler,Apartamento,1.0,42.0,1
+1241,49656780,Palermo,Capital Federal,75000,Alquiler,Apartamento,1.0,50.0,0
+1242,49656830,Rosario,Santa Fe,24000,Alquiler,Apartamento,0.0,25.0,0
+1243,49658248,Belgrano,Capital Federal,35000,Alquiler,Apartamento,1.0,33.0,0
+1244,49658264,Córdoba,Córdoba,35000,Alquiler,Apartamento,1.0,38.0,1
+1245,49658587,Palermo,Capital Federal,74000,Alquiler,Apartamento,2.0,72.0,0
+1246,49658757,Caballito,Capital Federal,50000,Alquiler,Apartamento,1.0,40.0,1
+1247,49659079,Caballito,Capital Federal,80000,Alquiler,PH,2.0,72.0,0
+1248,49659406,Villa Crespo,Capital Federal,96000,Alquiler,PH,,90.0,1
+1249,49659634,Palermo,Capital Federal,80000,Alquiler,Apartamento,0.0,55.0,0
+1250,49659742,Villa Urquiza,Capital Federal,67000,Alquiler,Apartamento,2.0,65.0,0
+1251,49659817,Almagro,Capital Federal,42000,Alquiler,Apartamento,1.0,37.0,0
+1252,49659884,Boedo,Capital Federal,39000,Alquiler,Apartamento,1.0,44.0,1
+1253,49659964,Vicente López,GBA Norte,48000,Alquiler,PH,2.0,80.0,0
+1254,49659990,Villa del Parque,Capital Federal,80000,Alquiler,PH,1.0,84.0,0
+1255,49660119,San Isidro,GBA Norte,45000,Alquiler,Apartamento,2.0,50.0,1
+1256,49660156,Barrio Norte,Capital Federal,60000,Alquiler,Apartamento,1.0,60.0,0
+1257,49660423,Lanús,GBA Sur,45000,Alquiler,PH,3.0,1.0,0
+1258,49660496,Lomas de Zamora,GBA Sur,30000,Alquiler,Apartamento,0.0,,1
+1259,49660558,Palermo,Capital Federal,100000,Alquiler,PH,3.0,83.0,0
+1260,49661070,Palermo,Capital Federal,60000,Alquiler,Apartamento,1.0,46.0,1
+1261,49661557,Belgrano,Capital Federal,45000,Alquiler,Apartamento,0.0,40.0,0
+1262,49661609,Villa Crespo,Capital Federal,43000,Alquiler,Apartamento,1.0,43.0,0
+1263,49662032,Vicente López,GBA Norte,75000,Alquiler,Apartamento,1.0,50.0,0
+1264,49662280,Villa Urquiza,Capital Federal,70000,Alquiler,Apartamento,1.0,55.0,0
+1265,49662892,Caballito,Capital Federal,80000,Alquiler,Apartamento,2.0,79.0,1
+1266,49663150,Congreso,Capital Federal,48000,Alquiler,Apartamento,2.0,50.0,0
+1267,49663520,Lomas de Zamora,GBA Sur,40000,Alquiler,PH,1.0,55.0,0
+1268,49663608,Rosario,Santa Fe,80000,Alquiler,Casa,2.0,,1
+1269,49663644,Palermo,Capital Federal,49000,Alquiler,Apartamento,1.0,45.0,0
+1270,49663699,Núñez,Capital Federal,50000,Alquiler,Apartamento,0.0,38.0,0
+1271,49663828,Balvanera,Capital Federal,45000,Alquiler,Apartamento,0.0,34.0,0
+1272,49663855,Belgrano,Capital Federal,80000,Alquiler,PH,1.0,63.0,1
+1273,49663897,Rosario,Santa Fe,27000,Alquiler,Apartamento,1.0,27.0,1
+1274,49663980,Vicente López,GBA Norte,40000,Alquiler,Apartamento,0.0,35.0,1
+1275,49664375,Saavedra,Capital Federal,33000,Alquiler,Apartamento,1.0,23.0,0
+1276,49664525,Villa Urquiza,Capital Federal,55000,Alquiler,Apartamento,1.0,49.0,1
+1277,49664548,San Cristobal,Capital Federal,65000,Alquiler,PH,2.0,75.0,1
+1278,49664591,Belgrano,Capital Federal,80000,Alquiler,Apartamento,3.0,75.0,0
+1279,49664610,Flores,Capital Federal,40000,Alquiler,Apartamento,1.0,46.0,1
+1280,49664614,Villa Urquiza,Capital Federal,35000,Alquiler,PH,0.0,27.0,0
+1281,49664649,Villa Urquiza,Capital Federal,35000,Alquiler,PH,0.0,27.0,0
+1282,49665017,Almagro,Capital Federal,35000,Alquiler,Apartamento,0.0,32.0,1
+1283,49665292,Lomas de Zamora,GBA Sur,30000,Alquiler,PH,2.0,53.0,1
+1284,49665310,Palermo,Capital Federal,50000,Alquiler,Apartamento,1.0,39.0,1
+1285,49665381,San Telmo,Capital Federal,28000,Alquiler,Apartamento,0.0,32.0,0
+1286,49666684,Palermo,Capital Federal,47000,Alquiler,Apartamento,1.0,45.0,0
+1287,49668698,San Isidro,GBA Norte,40000,Alquiler,Apartamento,0.0,28.0,1
+1288,49668942,Rosario,Santa Fe,90000,Alquiler,Casa,4.0,122.0,1
+1289,49669008,Núñez,Capital Federal,45000,Alquiler,Apartamento,0.0,,0
+1290,49669186,Centro / Microcentro,Capital Federal,29000,Alquiler,Apartamento,,20.0,1
+1291,49669229,Caballito,Capital Federal,85000,Alquiler,Apartamento,3.0,109.0,0
+1292,49670214,Almagro,Capital Federal,35000,Alquiler,Apartamento,0.0,25.0,1
+1293,49670468,Belgrano,Capital Federal,100000,Alquiler,Apartamento,2.0,60.0,0
+1294,49670474,Chacarita,Capital Federal,40000,Alquiler,Apartamento,1.0,45.0,1
+1295,49671053,Rosario,Santa Fe,30000,Venta,Apartamento,2.0,65.0,1
+1296,49671078,Núñez,Capital Federal,58000,Alquiler,Apartamento,1.0,48.0,1
+1297,49671169,San Telmo,Capital Federal,65000,Alquiler,Apartamento,2.0,80.0,0
+1298,49671375,Parque Chacabuco,Capital Federal,60000,Alquiler,Apartamento,2.0,60.0,1
+1299,49671390,Núñez,Capital Federal,50000,Alquiler,Apartamento,1.0,48.0,1
+1300,49671843,Palermo,Capital Federal,97000,Alquiler,Apartamento,2.0,100.0,1
+1301,49672032,San Isidro,GBA Norte,127000,Alquiler,Casa,2.0,118000.0,1
+1302,49672218,Núñez,Capital Federal,65000,Alquiler,Apartamento,1.0,46.0,1
+1303,49672330,Caballito,Capital Federal,70000,Alquiler,Apartamento,1.0,49.0,1
+1304,49672700,Barrio Norte,Capital Federal,60000,Alquiler,Apartamento,1.0,40.0,0
+1305,49673386,Caballito,Capital Federal,49000,Alquiler,Apartamento,1.0,42.0,1
+1306,49673465,Rosario,Santa Fe,30000,Alquiler,Apartamento,1.0,,0
+1307,49673887,Villa Urquiza,Capital Federal,48000,Alquiler,Apartamento,1.0,52.0,0
+1308,49674107,Colegiales,Capital Federal,120000,Alquiler,Apartamento,2.0,89.0,1
+1309,49674223,Palermo,Capital Federal,80000,Alquiler,Apartamento,3.0,108.0,1
+1310,49674722,La Matanza,GBA Oeste,45000,Alquiler,PH,2.0,70.0,0
+1311,49674785,Palermo,Capital Federal,50000,Alquiler,Apartamento,1.0,37.0,0
+1312,49674803,Caballito,Capital Federal,50000,Alquiler,Apartamento,1.0,49.0,1
+1313,49674833,Caballito,Capital Federal,55000,Alquiler,Apartamento,1.0,70.0,0
+1314,49674994,Núñez,Capital Federal,50000,Alquiler,Apartamento,1.0,30.0,1
+1315,49675176,Saavedra,Capital Federal,70000,Alquiler,Apartamento,3.0,86.0,0
+1316,49675233,Villa Urquiza,Capital Federal,70000,Alquiler,PH,1.0,106.0,0
+1317,49675252,Palermo,Capital Federal,67000,Alquiler,Apartamento,1.0,38.0,1
+1318,49675280,Palermo,Capital Federal,1250,Alquiler,Apartamento,2.0,100.0,1
+1319,49675477,Belgrano,Capital Federal,39000,Alquiler,Apartamento,1.0,30.0,0
+1320,49675767,Villa Crespo,Capital Federal,65000,Alquiler,Apartamento,2.0,55.0,1
+1321,49675913,Villa Urquiza,Capital Federal,50000,Alquiler,Apartamento,0.0,45.0,0
+1322,49676310,Vicente López,GBA Norte,135000,Alquiler,PH,1.0,94.0,1
+1323,49676466,Almagro,Capital Federal,38000,Alquiler,Apartamento,1.0,,0
+1324,49676698,Palermo,Capital Federal,50000,Alquiler,Apartamento,1.0,36.0,1
+1325,49677142,Saavedra,Capital Federal,45000,Alquiler,Apartamento,,40.0,0
+1326,49677197,Boedo,Capital Federal,40000,Alquiler,Apartamento,1.0,41.0,0
+1327,49677230,Caballito,Capital Federal,85000,Alquiler,Apartamento,2.0,67.0,1
+1328,49678345,Belgrano,Capital Federal,120000,Alquiler,Apartamento,2.0,67.0,1
+1329,49678447,Parque Patricios,Capital Federal,35000,Alquiler,Apartamento,1.0,50.0,1
+1330,49678520,Caballito,Capital Federal,40000,Alquiler,Apartamento,1.0,30.0,0
+1331,49678645,Barrio Norte,Capital Federal,65000,Alquiler,Apartamento,1.0,63.0,1
+1332,49678656,Barrio Norte,Capital Federal,80000,Alquiler,Apartamento,2.0,90.0,1
+1333,49678702,Parque Avellaneda,Capital Federal,60000,Alquiler,PH,1.0,53.0,1
+1334,49680558,Palermo,Capital Federal,55000,Alquiler,Apartamento,1.0,37.0,1
+1335,49680723,Rosario,Santa Fe,24000,Alquiler,Apartamento,0.0,30.0,1
+1336,49680873,Once,Capital Federal,29000,Alquiler,Apartamento,0.0,22.0,0
+1337,49681121,Parque Chacabuco,Capital Federal,55000,Alquiler,PH,0.0,62.0,1
+1338,49681257,Caballito,Capital Federal,65000,Alquiler,PH,1.0,46.0,1
+1339,49681370,Palermo,Capital Federal,80000,Alquiler,Apartamento,2.0,63.0,0
+1340,49681753,Núñez,Capital Federal,80000,Alquiler,Apartamento,2.0,75.0,0
+1341,49681761,Villa Urquiza,Capital Federal,52000,Alquiler,Apartamento,0.0,42.0,1
+1342,49681799,Almagro,Capital Federal,43000,Alquiler,Apartamento,0.0,35.0,1
+1343,49681892,Belgrano,Capital Federal,55000,Alquiler,PH,2.0,95.0,0
+1344,49682391,Flores,Capital Federal,85000,Alquiler,PH,2.0,95.0,1
+1345,49682423,Palermo,Capital Federal,135000,Alquiler,Apartamento,2.0,71.0,1
+1346,49682442,Caballito,Capital Federal,55000,Alquiler,Apartamento,1.0,41.0,1
+1347,49682457,Núñez,Capital Federal,55000,Alquiler,Apartamento,1.0,47.0,0
+1348,49682847,Villa Crespo,Capital Federal,50000,Alquiler,PH,2.0,50.0,0
+1349,49682980,Palermo,Capital Federal,52500,Alquiler,Apartamento,1.0,45.0,0
+1350,49682998,Villa del Parque,Capital Federal,95000,Alquiler,PH,2.0,150.0,1
+1351,49683021,Parque Chas,Capital Federal,38000,Alquiler,Apartamento,1.0,45.0,1
+1352,49683527,Villa del Parque,Capital Federal,60000,Alquiler,Apartamento,0.0,,1
+1353,49683663,Villa Ortuzar,Capital Federal,80000,Alquiler,PH,2.0,115.0,0
+1354,49684146,Belgrano,Capital Federal,80000,Alquiler,Apartamento,1.0,62.0,0
+1355,49684282,Córdoba,Córdoba,35000,Alquiler,Apartamento,1.0,60.0,1
+1356,49684314,Caballito,Capital Federal,65000,Alquiler,Apartamento,1.0,52.0,1
+1357,49684379,Palermo,Capital Federal,90000,Alquiler,Apartamento,2.0,72.0,0
+1358,49684390,Palermo,Capital Federal,80000,Alquiler,Apartamento,3.0,81.0,0
+1359,49684553,Villa Urquiza,Capital Federal,59000,Alquiler,Apartamento,1.0,46.0,1
+1360,49684664,Colegiales,Capital Federal,60000,Alquiler,PH,1.0,51.0,1
+1361,49685498,Recoleta,Capital Federal,60000,Alquiler,Apartamento,0.0,34.0,1
+1362,49685714,Barrio Norte,Capital Federal,46000,Alquiler,Apartamento,1.0,44.0,1
+1363,49685876,Caballito,Capital Federal,70000,Alquiler,Apartamento,1.0,55.0,0
+1364,49686270,Palermo,Capital Federal,42000,Alquiler,Apartamento,1.0,32.0,0
+1365,49686373,Barrio Norte,Capital Federal,31500,Alquiler,Apartamento,0.0,30.0,1
+1366,49686488,Monte Castro,Capital Federal,60000,Alquiler,PH,1.0,,0
+1367,49686703,Villa Urquiza,Capital Federal,38000,Alquiler,Apartamento,0.0,40.0,0
+1368,49686799,Belgrano,Capital Federal,80000,Alquiler,Apartamento,2.0,63.0,0
+1369,49687013,Almagro,Capital Federal,39000,Alquiler,Apartamento,1.0,34.0,0
+1370,49687016,San Isidro,GBA Norte,76500,Alquiler,PH,2.0,68.0,1
+1371,49687526,Palermo,Capital Federal,105000,Alquiler,Apartamento,1.0,65.0,1
+1372,49688181,Rosario,Santa Fe,25000,Alquiler,Apartamento,1.0,25.0,1
+1373,49688535,Almagro,Capital Federal,40000,Alquiler,Apartamento,1.0,32.0,1
+1374,49689129,Palermo,Capital Federal,48000,Alquiler,Apartamento,1.0,45.0,1
+1375,49689132,Barrio Norte,Capital Federal,47000,Alquiler,Apartamento,1.0,40.0,0
+1376,49689746,Lomas de Zamora,GBA Sur,42000,Alquiler,Apartamento,2.0,48.0,1
+1377,49690018,Coghlan,Capital Federal,78000,Alquiler,Apartamento,2.0,50.0,1
+1378,49690063,Barrio Norte,Capital Federal,38000,Alquiler,Apartamento,0.0,25.0,1
+1379,49690155,San Isidro,GBA Norte,75000,Alquiler,Casa,2.0,140.0,1
+1380,49690388,Colegiales,Capital Federal,55000,Alquiler,Apartamento,1.0,49.0,1
+1381,49690459,Caballito,Capital Federal,45000,Alquiler,Apartamento,1.0,45.0,0
+1382,49690512,Vicente López,GBA Norte,45000,Alquiler,Apartamento,1.0,43.0,1
+1383,49691260,San Telmo,Capital Federal,40000,Alquiler,Apartamento,1.0,40.0,0
+1384,49691273,Barrio Norte,Capital Federal,48000,Alquiler,Apartamento,1.0,48.0,1
+1385,49691282,Palermo,Capital Federal,72500,Alquiler,Apartamento,2.0,75.0,0
+1386,49691429,Vicente López,GBA Norte,50000,Alquiler,Apartamento,1.0,42.0,1
+1387,49691775,Caballito,Capital Federal,35000,Alquiler,Apartamento,1.0,24.0,0
+1388,49691784,Coghlan,Capital Federal,50000,Alquiler,Apartamento,1.0,48.0,0
+1389,49691879,Palermo,Capital Federal,59000,Alquiler,Apartamento,1.0,50.0,0
+1390,49691886,Villa Crespo,Capital Federal,100000,Alquiler,PH,3.0,115.0,1
+1391,49692022,Vicente López,GBA Norte,97000,Alquiler,Casa,2.0,66.0,1
+1392,49692647,Caballito,Capital Federal,98000,Alquiler,PH,3.0,180.0,1
+1393,49692704,Boedo,Capital Federal,28000,Alquiler,Apartamento,,24.0,0
+1394,49692722,Barracas,Capital Federal,40000,Alquiler,Apartamento,1.0,60.0,1
+1395,49692763,Núñez,Capital Federal,45000,Alquiler,Apartamento,1.0,40.0,1
+1396,49693176,Rosario,Santa Fe,30000,Alquiler,PH,0.0,30.0,1
+1397,49693454,Almagro,Capital Federal,45000,Alquiler,Apartamento,1.0,39.0,0
+1398,49693540,Lomas de Zamora,GBA Sur,45000,Alquiler,PH,2.0,53.0,1
+1399,49693558,Chacarita,Capital Federal,95000,Alquiler,PH,2.0,110.0,0
+1400,49695200,Caballito,Capital Federal,30000,Alquiler,Apartamento,,25.0,0
+1401,49695334,Almagro,Capital Federal,40000,Alquiler,Apartamento,1.0,27.0,1
+1402,49695389,Recoleta,Capital Federal,60000,Alquiler,Apartamento,1.0,45.0,0
+1403,49695599,Palermo,Capital Federal,60000,Alquiler,Apartamento,1.0,35.0,0
+1404,49695601,Caballito,Capital Federal,35000,Alquiler,Apartamento,0.0,22.0,1
+1405,49695691,Boedo,Capital Federal,35000,Alquiler,Apartamento,1.0,44.0,0
+1406,49696230,Rosario,Santa Fe,29000,Alquiler,Apartamento,0.0,38.0,0
+1407,49696446,Colegiales,Capital Federal,40000,Alquiler,Apartamento,1.0,34.0,1
+1408,49696642,Flores,Capital Federal,45000,Alquiler,PH,1.0,30.0,1
+1409,49696650,Caballito,Capital Federal,28000,Alquiler,Apartamento,0.0,30.0,0
+1410,49696810,Villa del Parque,Capital Federal,69000,Alquiler,PH,2.0,64.0,1
+1411,49697479,Villa Ortuzar,Capital Federal,35000,Alquiler,Apartamento,0.0,35.0,0
+1412,49698171,Palermo,Capital Federal,54000,Alquiler,Apartamento,,36.0,1
+1413,49698509,Villa Urquiza,Capital Federal,109999,Alquiler,PH,3.0,99.0,1
+1414,49698711,Palermo,Capital Federal,60000,Alquiler,Casa,2.0,65.0,0
+1415,49699588,Palermo,Capital Federal,44000,Alquiler,Apartamento,0.0,43.0,1
+1416,49699613,Recoleta,Capital Federal,32000,Alquiler,Apartamento,1.0,35.0,0
+1417,49700025,Palermo,Capital Federal,77000,Alquiler,Oficina comercial,1.0,59.0,1
+1418,49700567,Villa Crespo,Capital Federal,35000,Alquiler,Apartamento,1.0,30.0,0
+1419,49700665,Coghlan,Capital Federal,48000,Alquiler,Apartamento,1.0,39.0,0
+1420,49701715,San Telmo,Capital Federal,65000,Alquiler,Apartamento,2.0,62.0,1
+1421,49702416,Vicente López,GBA Norte,85000,Alquiler,PH,2.0,120.0,0
+1422,49702420,Vicente López,GBA Norte,135000,Alquiler,PH,3.0,97.0,1
+1423,49703087,Caballito,Capital Federal,39800,Alquiler,Apartamento,1.0,33.0,0
+1424,49703238,Villa Crespo,Capital Federal,50000,Alquiler,Apartamento,1.0,48.0,1
+1425,49703476,Pompeya,Capital Federal,33000,Alquiler,Apartamento,0.0,34.0,0
+1426,49703495,Almagro,Capital Federal,100000,Alquiler,Apartamento,2.0,81.0,1
+1427,49703660,Saavedra,Capital Federal,110000,Alquiler,PH,2.0,101.0,0
+1428,49703833,Lomas de Zamora,GBA Sur,40000,Alquiler,Apartamento,1.0,,1
+1429,49704569,Lanús,GBA Sur,18000,Alquiler,Apartamento,0.0,40.0,1
+1430,49704961,Almagro,Capital Federal,33000,Alquiler,Apartamento,0.0,32.0,1
+1431,49705096,Barrio Norte,Capital Federal,40000,Alquiler,Apartamento,0.0,30.0,1
+1432,49705109,Palermo,Capital Federal,40000,Alquiler,Apartamento,1.0,28.0,1
+1433,49705468,Belgrano,Capital Federal,60000,Alquiler,Apartamento,1.0,80.0,1
+1434,49705560,Palermo,Capital Federal,65000,Alquiler,Apartamento,1.0,50.0,0
+1435,49705573,Belgrano,Capital Federal,70000,Alquiler,Apartamento,1.0,48.0,0
+1436,49706064,Avellaneda,GBA Sur,40000,Alquiler,PH,2.0,77.0,1
+1437,49706336,Recoleta,Capital Federal,44000,Alquiler,Apartamento,1.0,60.0,0
+1438,49706709,General San Martín,GBA Norte,50000,Alquiler,Casa,2.0,75.0,1
+1439,49706795,Coghlan,Capital Federal,75000,Alquiler,Apartamento,2.0,77.0,1
+1440,49707025,Vicente López,GBA Norte,80000,Alquiler,Casa,2.0,86.0,1
+1441,49707944,Recoleta,Capital Federal,120000,Alquiler,PH,3.0,137.0,0
+1442,49707981,Villa Crespo,Capital Federal,30000,Alquiler,Apartamento,0.0,31.0,1
+1443,49708038,San Isidro,GBA Norte,40000,Alquiler,Apartamento,1.0,43.0,0
+1444,49708137,Agronomía,Capital Federal,82000,Alquiler,PH,2.0,60.0,1
+1445,49708427,Colegiales,Capital Federal,50000,Alquiler,Apartamento,1.0,66.0,0
+1446,49708459,Belgrano,Capital Federal,56000,Alquiler,Apartamento,1.0,62.0,1
+1447,49708577,Palermo,Capital Federal,45000,Alquiler,Apartamento,0.0,33.0,1
+1448,49708609,Saavedra,Capital Federal,40000,Alquiler,Apartamento,1.0,55.0,0
+1449,49708639,Colegiales,Capital Federal,43000,Alquiler,Apartamento,1.0,39.0,0
+1450,49709101,Villa Urquiza,Capital Federal,70000,Alquiler,Apartamento,2.0,45.0,1
+1451,49718255,Belgrano,Capital Federal,130000,Alquiler,Apartamento,2.0,80.0,0
+1452,49718328,Belgrano,Capital Federal,100000,Alquiler,Apartamento,2.0,81.0,1
+1453,49718501,Parque Centenario,Capital Federal,70000,Alquiler,PH,1.0,103.0,0
+1454,49719028,Villa Pueyrredón,Capital Federal,95000,Alquiler,PH,2.0,85.0,0
+1455,49719192,Palermo,Capital Federal,97000,Alquiler,Apartamento,1.0,60.0,1
+1456,49719716,Coghlan,Capital Federal,50000,Alquiler,Apartamento,1.0,43.0,1
+1457,49719947,Coghlan,Capital Federal,70000,Alquiler,Apartamento,2.0,75.0,1
+1458,49720018,Caballito,Capital Federal,80000,Alquiler,Apartamento,2.0,75.0,1
+1459,49720805,Barrio Norte,Capital Federal,65000,Alquiler,Apartamento,2.0,53.0,1
+1460,49720827,Palermo,Capital Federal,82500,Alquiler,Apartamento,2.0,70.0,0
+1461,49720830,Villa Lugano,Capital Federal,29900,Alquiler,PH,1.0,40.0,1
+1462,49721174,Palermo,Capital Federal,45000,Alquiler,Apartamento,1.0,35.0,1
+1463,49721199,Barrio Norte,Capital Federal,45000,Alquiler,Apartamento,1.0,40.0,1
+1464,49721212,San Isidro,GBA Norte,44900,Alquiler,Apartamento,1.0,40.0,1
+1465,49721299,Belgrano,Capital Federal,68000,Alquiler,PH,2.0,65.0,1
+1466,49721783,Palermo,Capital Federal,700,Alquiler,PH,3.0,243.0,0
+1467,49721842,Villa Urquiza,Capital Federal,60000,Alquiler,PH,1.0,50.0,1
+1468,49722273,Almagro,Capital Federal,55000,Alquiler,PH,2.0,51.0,1
+1469,49722456,Núñez,Capital Federal,60000,Alquiler,Apartamento,2.0,84.0,0
+1470,49722602,Belgrano,Capital Federal,50000,Alquiler,Apartamento,1.0,47.0,0
+1471,49723001,Colegiales,Capital Federal,130000,Alquiler,Apartamento,3.0,100.0,1
+1472,49723122,Palermo,Capital Federal,60000,Alquiler,Apartamento,1.0,46.0,1
+1473,49723274,Palermo,Capital Federal,85000,Alquiler,Apartamento,2.0,70.0,1
+1474,49723325,Palermo,Capital Federal,79000,Alquiler,Apartamento,1.0,60.0,0
+1475,49723495,Chacarita,Capital Federal,42000,Alquiler,Apartamento,0.0,40.0,1
+1476,49723539,Congreso,Capital Federal,32000,Alquiler,Apartamento,0.0,23.0,1
+1477,49724046,Villa del Parque,Capital Federal,60000,Alquiler,Apartamento,2.0,100.0,0
+1478,49724093,Palermo,Capital Federal,45000,Alquiler,Apartamento,1.0,38.0,1
+1479,49724776,Villa Devoto,Capital Federal,39000,Alquiler,Apartamento,0.0,33.0,0
+1480,49724902,Palermo,Capital Federal,50000,Alquiler,Apartamento,0.0,36.0,1
+1481,49725310,Palermo,Capital Federal,55000,Alquiler,Apartamento,2.0,40.0,1
+1482,49727387,Villa Urquiza,Capital Federal,59000,Alquiler,Apartamento,1.0,50.0,1
+1483,49728355,Belgrano,Capital Federal,65000,Alquiler,Apartamento,2.0,72.0,0
+1484,49728824,Palermo,Capital Federal,32000,Alquiler,Apartamento,1.0,25.0,1
+1485,49729601,Barrio Norte,Capital Federal,39000,Alquiler,Apartamento,0.0,43.0,0
+1486,49729793,Caballito,Capital Federal,70000,Alquiler,Apartamento,3.0,88.0,0
+1487,49729876,Coghlan,Capital Federal,80000,Alquiler,Apartamento,1.0,60.0,1
+1488,49731656,San Isidro,GBA Norte,80000,Alquiler,Apartamento,2.0,70.0,0
+1489,49731850,Villa Urquiza,Capital Federal,65000,Alquiler,PH,1.0,48.0,1
+1490,49732160,Barrio Norte,Capital Federal,40000,Alquiler,Apartamento,1.0,40.0,0
+1491,49732809,Palermo,Capital Federal,90000,Alquiler,Apartamento,2.0,77.0,1
+1492,49733210,Caballito,Capital Federal,50000,Alquiler,Apartamento,1.0,36.0,1
+1493,49733384,Caballito,Capital Federal,37000,Alquiler,Apartamento,1.0,32.0,1
+1494,49733537,Caballito,Capital Federal,80000,Alquiler,PH,2.0,72.0,1
+1495,49733941,Palermo,Capital Federal,60000,Alquiler,Apartamento,2.0,55.0,0
+1496,49734046,Villa Crespo,Capital Federal,60000,Alquiler,PH,1.0,48.0,1
+1497,49734047,Palermo,Capital Federal,65000,Alquiler,Apartamento,1.0,45.0,1
+1498,49734071,Palermo,Capital Federal,78000,Alquiler,PH,2.0,149.0,1
+1499,49735214,Almagro,Capital Federal,30000,Alquiler,Apartamento,0.0,32.0,0
+1500,49735292,San Telmo,Capital Federal,65000,Alquiler,PH,3.0,54.0,1
+1501,49735490,Caballito,Capital Federal,45000,Alquiler,PH,2.0,60.0,0
+1502,49736113,Palermo,Capital Federal,60000,Alquiler,Apartamento,1.0,38.0,1
+1503,49736170,Villa Crespo,Capital Federal,45000,Alquiler,Apartamento,1.0,,0
+1504,49737078,Palermo,Capital Federal,140000,Alquiler,PH,2.0,136.0,0
+1505,49737200,La Boca,Capital Federal,50000,Alquiler,Apartamento,2.0,60.0,1
+1506,49737833,Villa Urquiza,Capital Federal,58000,Alquiler,Apartamento,1.0,48.0,1
+1507,49738207,Palermo,Capital Federal,48000,Alquiler,Apartamento,1.0,45.0,0
+1508,49739121,Palermo,Capital Federal,45500,Alquiler,Apartamento,1.0,40.0,0
+1509,49739360,Belgrano,Capital Federal,35000,Alquiler,Apartamento,1.0,41.0,1
+1510,49742295,Almagro,Capital Federal,45000,Alquiler,Apartamento,1.0,43.0,0
+1511,49742572,Belgrano,Capital Federal,52000,Alquiler,Apartamento,1.0,43.0,1
+1512,49742723,Caballito,Capital Federal,35000,Alquiler,Apartamento,1.0,40.0,0
+1513,49742729,Belgrano,Capital Federal,70000,Alquiler,Apartamento,2.0,53.0,1
+1514,49742955,Villa Urquiza,Capital Federal,40000,Alquiler,Apartamento,0.0,28.0,1
+1515,49743931,Monserrat,Capital Federal,35000,Alquiler,Apartamento,0.0,27.0,1
+1516,49744676,Rosario,Santa Fe,21000,Alquiler,Apartamento,0.0,30.0,1
+1517,49744718,Belgrano,Capital Federal,55000,Alquiler,Apartamento,1.0,46.0,1
+1518,49744738,Núñez,Capital Federal,55000,Alquiler,Apartamento,1.0,55.0,0
+1519,49744816,Núñez,Capital Federal,48000,Alquiler,Apartamento,1.0,48.0,1
+1520,49745559,San Isidro,GBA Norte,150000,Alquiler,Casa,3.0,140.0,1
+1521,49746515,Villa Devoto,Capital Federal,75000,Alquiler,PH,2.0,67.0,0
+1522,49746891,Villa Ortuzar,Capital Federal,28000,Alquiler,Apartamento,0.0,26.0,1
+1523,49747424,Barrio Norte,Capital Federal,35000,Alquiler,Apartamento,1.0,45.0,0
+1524,49747524,Flores,Capital Federal,34000,Alquiler,PH,0.0,28.0,1
+1525,49747616,Palermo,Capital Federal,75000,Alquiler,Apartamento,0.0,45.0,1
+1526,49748007,Villa Urquiza,Capital Federal,45000,Alquiler,Apartamento,1.0,44.0,1
+1527,49748541,Belgrano,Capital Federal,68000,Alquiler,Apartamento,2.0,45.0,1
+1528,49749604,Palermo,Capital Federal,32000,Alquiler,Apartamento,0.0,24.0,0
+1529,49750912,Caballito,Capital Federal,80000,Alquiler,PH,2.0,62.0,1
+1530,49751493,Vicente López,GBA Norte,115000,Alquiler,PH,2.0,200.0,0
+1531,49752197,Villa Urquiza,Capital Federal,40000,Alquiler,Apartamento,0.0,32.0,1
+1532,49753256,Colegiales,Capital Federal,49000,Alquiler,Apartamento,1.0,40.0,0
+1533,49753384,Belgrano,Capital Federal,78000,Alquiler,Apartamento,3.0,80.0,1
+1534,49753699,Villa Urquiza,Capital Federal,42000,Alquiler,Apartamento,0.0,35.0,1
+1535,49753940,Vicente López,GBA Norte,75000,Alquiler,PH,2.0,160.0,1
+1536,49754070,Villa Crespo,Capital Federal,27000,Alquiler,Apartamento,,22.0,1
+1537,49754211,San Cristobal,Capital Federal,36000,Alquiler,Apartamento,,28.0,1
+1538,49754889,San Isidro,GBA Norte,50000,Alquiler,Apartamento,1.0,45.0,1
+1539,49754963,San Isidro,GBA Norte,90000,Alquiler,PH,2.0,99.0,0
+1540,49755832,Palermo,Capital Federal,37000,Alquiler,Apartamento,1.0,30.0,1
+1541,49756036,Caballito,Capital Federal,62000,Alquiler,Apartamento,1.0,47.0,1
+1542,49756926,Belgrano,Capital Federal,75000,Alquiler,Apartamento,2.0,76.0,1
+1543,49759874,Rosario,Santa Fe,22000,Alquiler,Apartamento,1.0,42.0,1
+1544,49763264,Palermo,Capital Federal,48000,Alquiler,Apartamento,1.0,43.0,0
+1545,49765620,San Cristobal,Capital Federal,30000,Alquiler,Apartamento,1.0,,1
+1546,49767066,Belgrano,Capital Federal,55000,Alquiler,Apartamento,1.0,42.0,1
+1547,49767640,Belgrano,Capital Federal,43500,Alquiler,Apartamento,1.0,39.0,0
+1548,49768316,Belgrano,Capital Federal,75000,Alquiler,Apartamento,2.0,65.0,1
+1549,49768399,Palermo,Capital Federal,33000,Alquiler,Apartamento,0.0,25.0,1
+1550,49769638,Colegiales,Capital Federal,36000,Alquiler,Apartamento,1.0,38.0,1
+1551,49776569,Almagro,Capital Federal,20000,Alquiler,Apartamento,1.0,50.0,1
